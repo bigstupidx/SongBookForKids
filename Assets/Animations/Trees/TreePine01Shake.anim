@@ -1,0 +1,1365 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: TreePine01Shake
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 196.67467}
+        outSlope: {x: 0, y: 0, z: 196.67467}
+        tangentMode: 0
+      - time: 0.016666668
+        value: {x: 0, y: 0, z: 3.2779112}
+        inSlope: {x: 0, y: 0, z: -1.4677277}
+        outSlope: {x: 0, y: 0, z: -1.4677277}
+        tangentMode: 0
+      - time: 0.05
+        value: {x: 0, y: 0, z: -3.3757591}
+        inSlope: {x: 0, y: 0, z: -11.7417755}
+        outSlope: {x: 0, y: 0, z: -11.7417755}
+        tangentMode: 0
+      - time: 0.083333336
+        value: {x: 0, y: 0, z: 2.4951267}
+        inSlope: {x: 0, y: 0, z: -2.935463}
+        outSlope: {x: 0, y: 0, z: -2.935463}
+        tangentMode: 0
+      - time: 0.11666667
+        value: {x: 0, y: 0, z: -3.5714557}
+        inSlope: {x: 0, y: 0, z: -41.22523}
+        outSlope: {x: 0, y: 0, z: -41.22523}
+        tangentMode: 0
+      - time: 0.16666667
+        value: {x: 0, y: 0, z: 1.4058964}
+        inSlope: {x: 0, y: 0, z: 15.563061}
+        outSlope: {x: 0, y: 0, z: 15.563061}
+        tangentMode: 0
+      - time: 0.21666667
+        value: {x: 0, y: 0, z: -2.015149}
+        inSlope: {x: 0, y: 0, z: -0.8494797}
+        outSlope: {x: 0, y: 0, z: -0.8494797}
+        tangentMode: 0
+      - time: 0.26666668
+        value: {x: 0, y: 0, z: 1.3209494}
+        inSlope: {x: 0, y: 0, z: -6.267544}
+        outSlope: {x: 0, y: 0, z: -6.267544}
+        tangentMode: 0
+      - time: 0.28333333
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: -79.25704}
+        outSlope: {x: 0, y: 0, z: -79.25704}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 287.6734}
+        outSlope: {x: 0, y: 0, z: 287.6734}
+        tangentMode: 0
+      - time: 0.016666668
+        value: {x: 0, y: 0, z: 4.794557}
+        inSlope: {x: 0, y: 0, z: -2.2015991}
+        outSlope: {x: 0, y: 0, z: -2.2015991}
+        tangentMode: 0
+      - time: 0.05
+        value: {x: 0, y: 0, z: -4.941329}
+        inSlope: {x: 0, y: 0, z: -19.814262}
+        outSlope: {x: 0, y: 0, z: -19.814262}
+        tangentMode: 0
+      - time: 0.083333336
+        value: {x: 0, y: 0, z: 3.4736075}
+        inSlope: {x: 0, y: 0, z: 50.39176}
+        outSlope: {x: 0, y: 0, z: 50.39176}
+        tangentMode: 0
+      - time: 0.13333334
+        value: {x: 0, y: 0, z: -4.1096206}
+        inSlope: {x: 0, y: 0, z: -13.698723}
+        outSlope: {x: 0, y: 0, z: -13.698723}
+        tangentMode: 0
+      - time: 0.18333334
+        value: {x: 0, y: 0, z: 2.1037343}
+        inSlope: {x: 0, y: 0, z: 26.90823}
+        outSlope: {x: 0, y: 0, z: 26.90823}
+        tangentMode: 0
+      - time: 0.23333333
+        value: {x: 0, y: 0, z: -1.4187976}
+        inSlope: {x: 0, y: 0, z: 19.080357}
+        outSlope: {x: 0, y: 0, z: 19.080357}
+        tangentMode: 0
+      - time: 0.26666668
+        value: {x: 0, y: 0, z: 2.2015824}
+        inSlope: {x: 0, y: 0, z: -11.741859}
+        outSlope: {x: 0, y: 0, z: -11.741859}
+        tangentMode: 0
+      - time: 0.28333333
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: -132.09508}
+        outSlope: {x: 0, y: 0, z: -132.09508}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: TreePineBranches03 (1)
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 121.82089}
+        outSlope: {x: 0, y: 0, z: 121.82089}
+        tangentMode: 0
+      - time: 0.033333335
+        value: {x: 0, y: 0, z: 4.0606966}
+        inSlope: {x: 0, y: 0, z: -57.748535}
+        outSlope: {x: 0, y: 0, z: -57.748535}
+        tangentMode: 0
+      - time: 0.06666667
+        value: {x: 0, y: 0, z: -3.8499026}
+        inSlope: {x: 0, y: 0, z: -20.866539}
+        outSlope: {x: 0, y: 0, z: -20.866539}
+        tangentMode: 0
+      - time: 0.1
+        value: {x: 0, y: 0, z: 2.6695933}
+        inSlope: {x: 0, y: 0, z: 2.3413086}
+        outSlope: {x: 0, y: 0, z: 2.3413086}
+        tangentMode: 0
+      - time: 0.13333334
+        value: {x: 0, y: 0, z: -3.6938167}
+        inSlope: {x: 0, y: 0, z: -37.20762}
+        outSlope: {x: 0, y: 0, z: -37.20762}
+        tangentMode: 0
+      - time: 0.18333334
+        value: {x: 0, y: 0, z: 2.1305346}
+        inSlope: {x: 0, y: 0, z: 8.11755}
+        outSlope: {x: 0, y: 0, z: 8.11755}
+        tangentMode: 0
+      - time: 0.23333333
+        value: {x: 0, y: 0, z: -2.8820617}
+        inSlope: {x: 0, y: 0, z: 9.550087}
+        outSlope: {x: 0, y: 0, z: 9.550087}
+        tangentMode: 0
+      - time: 0.26666668
+        value: {x: 0, y: 0, z: 1.0963432}
+        inSlope: {x: 0, y: 0, z: 26.785725}
+        outSlope: {x: 0, y: 0, z: 26.785725}
+        tangentMode: 0
+      - time: 0.28333333
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: -65.780655}
+        outSlope: {x: 0, y: 0, z: -65.780655}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 58.70886}
+        outSlope: {x: 0, y: 0, z: 58.70886}
+        tangentMode: 0
+      - time: 0.016666668
+        value: {x: 0, y: 0, z: 0.978481}
+        inSlope: {x: 0, y: 0, z: -44.67163}
+        outSlope: {x: 0, y: 0, z: -44.67163}
+        tangentMode: 0
+      - time: 0.05
+        value: {x: 0, y: 0, z: -3.9565895}
+        inSlope: {x: 0, y: 0, z: 9.627968}
+        outSlope: {x: 0, y: 0, z: 9.627968}
+        tangentMode: 0
+      - time: 0.083333336
+        value: {x: 0, y: 0, z: 1.6203463}
+        inSlope: {x: 0, y: 0, z: 35.623676}
+        outSlope: {x: 0, y: 0, z: 35.623676}
+        tangentMode: 0
+      - time: 0.13333334
+        value: {x: 0, y: 0, z: -3.1826894}
+        inSlope: {x: 0, y: 0, z: 11.7041855}
+        outSlope: {x: 0, y: 0, z: 11.7041855}
+        tangentMode: 0
+      - time: 0.18333334
+        value: {x: 0, y: 0, z: 2.7907643}
+        inSlope: {x: 0, y: 0, z: 10.854893}
+        outSlope: {x: 0, y: 0, z: 10.854893}
+        tangentMode: 0
+      - time: 0.23333333
+        value: {x: 0, y: 0, z: -2.0972}
+        inSlope: {x: 0, y: 0, z: -1.7007675}
+        outSlope: {x: 0, y: 0, z: -1.7007675}
+        tangentMode: 0
+      - time: 0.26666668
+        value: {x: 0, y: 0, z: 1.04806}
+        inSlope: {x: 0, y: 0, z: 15.737047}
+        outSlope: {x: 0, y: 0, z: 15.737047}
+        tangentMode: 0
+      - time: 0.28333333
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: -62.883663}
+        outSlope: {x: 0, y: 0, z: -62.883663}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)/TreePineBranches03 (2)
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: -264.18988}
+        outSlope: {x: 0, y: 0, z: -264.18988}
+        tangentMode: 0
+      - time: 0.016666668
+        value: {x: 0, y: 0, z: -4.403165}
+        inSlope: {x: 0, y: 0, z: 15.456955}
+        outSlope: {x: 0, y: 0, z: 15.456955}
+        tangentMode: 0
+      - time: 0.05
+        value: {x: 0, y: 0, z: 5.4336267}
+        inSlope: {x: 0, y: 0, z: 1.6696625}
+        outSlope: {x: 0, y: 0, z: 1.6696625}
+        tangentMode: 0
+      - time: 0.083333336
+        value: {x: 0, y: 0, z: -4.2918563}
+        inSlope: {x: 0, y: 0, z: -60.39261}
+        outSlope: {x: 0, y: 0, z: -60.39261}
+        tangentMode: 0
+      - time: 0.11666667
+        value: {x: 0, y: 0, z: 1.4074516}
+        inSlope: {x: 0, y: 0, z: 51.68467}
+        outSlope: {x: 0, y: 0, z: 51.68467}
+        tangentMode: 0
+      - time: 0.16666667
+        value: {x: 0, y: 0, z: -1.9730442}
+        inSlope: {x: 0, y: 0, z: -1.442318}
+        outSlope: {x: 0, y: 0, z: -1.442318}
+        tangentMode: 0
+      - time: 0.21666667
+        value: {x: 0, y: 0, z: 1.2632192}
+        inSlope: {x: 0, y: 0, z: 4.381666}
+        outSlope: {x: 0, y: 0, z: 4.381666}
+        tangentMode: 0
+      - time: 0.26666668
+        value: {x: 0, y: 0, z: -1.5348784}
+        inSlope: {x: 0, y: 0, z: 18.065424}
+        outSlope: {x: 0, y: 0, z: 18.065424}
+        tangentMode: 0
+      - time: 0.28333333
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 92.09279}
+        outSlope: {x: 0, y: 0, z: 92.09279}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)/TreePineBranches03 (2)/TreePineBranches01
+      (2)
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: -375.7367}
+        outSlope: {x: 0, y: 0, z: -375.7367}
+        tangentMode: 0
+      - time: 0.016666668
+        value: {x: 0, y: 0, z: -6.2622786}
+        inSlope: {x: 0, y: 0, z: -25.182022}
+        outSlope: {x: 0, y: 0, z: -25.182022}
+        tangentMode: 0
+      - time: 0.05
+        value: {x: 0, y: 0, z: 4.5834765}
+        inSlope: {x: 0, y: 0, z: 20.608597}
+        outSlope: {x: 0, y: 0, z: 20.608597}
+        tangentMode: 0
+      - time: 0.083333336
+        value: {x: 0, y: 0, z: -4.8883734}
+        inSlope: {x: 0, y: 0, z: -48.054085}
+        outSlope: {x: 0, y: 0, z: -48.054085}
+        tangentMode: 0
+      - time: 0.11666667
+        value: {x: 0, y: 0, z: 1.379869}
+        inSlope: {x: 0, y: 0, z: 60.103634}
+        outSlope: {x: 0, y: 0, z: 60.103634}
+        tangentMode: 0
+      - time: 0.16666667
+        value: {x: 0, y: 0, z: -2.0121324}
+        inSlope: {x: 0, y: 0, z: 8.662621}
+        outSlope: {x: 0, y: 0, z: 8.662621}
+        tangentMode: 0
+      - time: 0.21666667
+        value: {x: 0, y: 0, z: 2.2461305}
+        inSlope: {x: 0, y: 0, z: 12.205669}
+        outSlope: {x: 0, y: 0, z: 12.205669}
+        tangentMode: 0
+      - time: 0.26666668
+        value: {x: 0, y: 0, z: -0.7915665}
+        inSlope: {x: 0, y: 0, z: -6.629944}
+        outSlope: {x: 0, y: 0, z: -6.629944}
+        tangentMode: 0
+      - time: 0.28333333
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 47.494034}
+        outSlope: {x: 0, y: 0, z: 47.494034}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)/TreePineBranches03 (2)/TreePineBranches01
+      (2)/TreePineBranches02 (2)
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: -137.41542}
+        outSlope: {x: 0, y: 0, z: -137.41542}
+        tangentMode: 0
+      - time: 0.016666668
+        value: {x: 0, y: 0, z: -2.2902572}
+        inSlope: {x: 0, y: 0, z: 223.82755}
+        outSlope: {x: 0, y: 0, z: 223.82755}
+        tangentMode: 0
+      - time: 0.033333335
+        value: {x: 0, y: 0, z: 7.460918}
+        inSlope: {x: 0, y: 0, z: 67.60693}
+        outSlope: {x: 0, y: 0, z: 67.60693}
+        tangentMode: 0
+      - time: 0.06666667
+        value: {x: 0, y: 0, z: -7.534304}
+        inSlope: {x: 0, y: 0, z: -36.326096}
+        outSlope: {x: 0, y: 0, z: -36.326096}
+        tangentMode: 0
+      - time: 0.1
+        value: {x: 0, y: 0, z: 5.039177}
+        inSlope: {x: 0, y: 0, z: 58.708878}
+        outSlope: {x: 0, y: 0, z: 58.708878}
+        tangentMode: 0
+      - time: 0.13333334
+        value: {x: 0, y: 0, z: -3.62038}
+        inSlope: {x: 0, y: 0, z: -59.442703}
+        outSlope: {x: 0, y: 0, z: -59.442703}
+        tangentMode: 0
+      - time: 0.18333334
+        value: {x: 0, y: 0, z: 3.4246836}
+        inSlope: {x: 0, y: 0, z: -0.9784775}
+        outSlope: {x: 0, y: 0, z: -0.9784775}
+        tangentMode: 0
+      - time: 0.23333333
+        value: {x: 0, y: 0, z: -3.7182279}
+        inSlope: {x: 0, y: 0, z: 56.26261}
+        outSlope: {x: 0, y: 0, z: 56.26261}
+        tangentMode: 0
+      - time: 0.26666668
+        value: {x: 0, y: 0, z: 4.794557}
+        inSlope: {x: 0, y: 0, z: -16.145126}
+        outSlope: {x: 0, y: 0, z: -16.145126}
+        tangentMode: 0
+      - time: 0.28333333
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: -287.6737}
+        outSlope: {x: 0, y: 0, z: -287.6737}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)/TreePineBranches03 (2)/TreePineBranches01
+      (2)/TreePineBranches02 (2)/TreePineBranches04 (1)
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 0
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 1191511450
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 1719027405
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 2598657104
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 2770779761
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 4233052550
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 2944432131
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 0.28333333
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.28333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.28333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 196.67467
+        outSlope: 196.67467
+        tangentMode: 10
+      - time: 0.016666668
+        value: 3.2779112
+        inSlope: -1.4677277
+        outSlope: -1.4677277
+        tangentMode: 10
+      - time: 0.05
+        value: -3.3757591
+        inSlope: -11.7417755
+        outSlope: -11.7417755
+        tangentMode: 10
+      - time: 0.083333336
+        value: 2.4951267
+        inSlope: -2.935463
+        outSlope: -2.935463
+        tangentMode: 10
+      - time: 0.11666667
+        value: -3.5714557
+        inSlope: -41.22523
+        outSlope: -41.22523
+        tangentMode: 10
+      - time: 0.16666667
+        value: 1.4058964
+        inSlope: 15.563061
+        outSlope: 15.563061
+        tangentMode: 10
+      - time: 0.21666667
+        value: -2.015149
+        inSlope: -0.8494797
+        outSlope: -0.8494797
+        tangentMode: 10
+      - time: 0.26666668
+        value: 1.3209494
+        inSlope: -6.267544
+        outSlope: -6.267544
+        tangentMode: 10
+      - time: 0.28333333
+        value: 0
+        inSlope: -79.25704
+        outSlope: -79.25704
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.28333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: TreePineBranches03 (1)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.28333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: TreePineBranches03 (1)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 287.6734
+        outSlope: 287.6734
+        tangentMode: 10
+      - time: 0.016666668
+        value: 4.794557
+        inSlope: -2.2015991
+        outSlope: -2.2015991
+        tangentMode: 10
+      - time: 0.05
+        value: -4.941329
+        inSlope: -19.814262
+        outSlope: -19.814262
+        tangentMode: 10
+      - time: 0.083333336
+        value: 3.4736075
+        inSlope: 50.39176
+        outSlope: 50.39176
+        tangentMode: 10
+      - time: 0.13333334
+        value: -4.1096206
+        inSlope: -13.698723
+        outSlope: -13.698723
+        tangentMode: 10
+      - time: 0.18333334
+        value: 2.1037343
+        inSlope: 26.90823
+        outSlope: 26.90823
+        tangentMode: 10
+      - time: 0.23333333
+        value: -1.4187976
+        inSlope: 19.080357
+        outSlope: 19.080357
+        tangentMode: 10
+      - time: 0.26666668
+        value: 2.2015824
+        inSlope: -11.741859
+        outSlope: -11.741859
+        tangentMode: 10
+      - time: 0.28333333
+        value: 0
+        inSlope: -132.09508
+        outSlope: -132.09508
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: TreePineBranches03 (1)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.28333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.28333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 121.82089
+        outSlope: 121.82089
+        tangentMode: 10
+      - time: 0.033333335
+        value: 4.0606966
+        inSlope: -57.748535
+        outSlope: -57.748535
+        tangentMode: 10
+      - time: 0.06666667
+        value: -3.8499026
+        inSlope: -20.866539
+        outSlope: -20.866539
+        tangentMode: 10
+      - time: 0.1
+        value: 2.6695933
+        inSlope: 2.3413086
+        outSlope: 2.3413086
+        tangentMode: 10
+      - time: 0.13333334
+        value: -3.6938167
+        inSlope: -37.20762
+        outSlope: -37.20762
+        tangentMode: 10
+      - time: 0.18333334
+        value: 2.1305346
+        inSlope: 8.11755
+        outSlope: 8.11755
+        tangentMode: 10
+      - time: 0.23333333
+        value: -2.8820617
+        inSlope: 9.550087
+        outSlope: 9.550087
+        tangentMode: 10
+      - time: 0.26666668
+        value: 1.0963432
+        inSlope: 26.785725
+        outSlope: 26.785725
+        tangentMode: 10
+      - time: 0.28333333
+        value: 0
+        inSlope: -65.780655
+        outSlope: -65.780655
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.28333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)/TreePineBranches03 (2)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.28333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)/TreePineBranches03 (2)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 58.70886
+        outSlope: 58.70886
+        tangentMode: 10
+      - time: 0.016666668
+        value: 0.978481
+        inSlope: -44.67163
+        outSlope: -44.67163
+        tangentMode: 10
+      - time: 0.05
+        value: -3.9565895
+        inSlope: 9.627968
+        outSlope: 9.627968
+        tangentMode: 10
+      - time: 0.083333336
+        value: 1.6203463
+        inSlope: 35.623676
+        outSlope: 35.623676
+        tangentMode: 10
+      - time: 0.13333334
+        value: -3.1826894
+        inSlope: 11.7041855
+        outSlope: 11.7041855
+        tangentMode: 10
+      - time: 0.18333334
+        value: 2.7907643
+        inSlope: 10.854893
+        outSlope: 10.854893
+        tangentMode: 10
+      - time: 0.23333333
+        value: -2.0972
+        inSlope: -1.7007675
+        outSlope: -1.7007675
+        tangentMode: 10
+      - time: 0.26666668
+        value: 1.04806
+        inSlope: 15.737047
+        outSlope: 15.737047
+        tangentMode: 10
+      - time: 0.28333333
+        value: 0
+        inSlope: -62.883663
+        outSlope: -62.883663
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)/TreePineBranches03 (2)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.28333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)/TreePineBranches03 (2)/TreePineBranches01
+      (2)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.28333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)/TreePineBranches03 (2)/TreePineBranches01
+      (2)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: -264.18988
+        outSlope: -264.18988
+        tangentMode: 10
+      - time: 0.016666668
+        value: -4.403165
+        inSlope: 15.456955
+        outSlope: 15.456955
+        tangentMode: 10
+      - time: 0.05
+        value: 5.4336267
+        inSlope: 1.6696625
+        outSlope: 1.6696625
+        tangentMode: 10
+      - time: 0.083333336
+        value: -4.2918563
+        inSlope: -60.39261
+        outSlope: -60.39261
+        tangentMode: 10
+      - time: 0.11666667
+        value: 1.4074516
+        inSlope: 51.68467
+        outSlope: 51.68467
+        tangentMode: 10
+      - time: 0.16666667
+        value: -1.9730442
+        inSlope: -1.442318
+        outSlope: -1.442318
+        tangentMode: 10
+      - time: 0.21666667
+        value: 1.2632192
+        inSlope: 4.381666
+        outSlope: 4.381666
+        tangentMode: 10
+      - time: 0.26666668
+        value: -1.5348784
+        inSlope: 18.065424
+        outSlope: 18.065424
+        tangentMode: 10
+      - time: 0.28333333
+        value: 0
+        inSlope: 92.09279
+        outSlope: 92.09279
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)/TreePineBranches03 (2)/TreePineBranches01
+      (2)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.28333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)/TreePineBranches03 (2)/TreePineBranches01
+      (2)/TreePineBranches02 (2)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.28333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)/TreePineBranches03 (2)/TreePineBranches01
+      (2)/TreePineBranches02 (2)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: -375.7367
+        outSlope: -375.7367
+        tangentMode: 10
+      - time: 0.016666668
+        value: -6.2622786
+        inSlope: -25.182022
+        outSlope: -25.182022
+        tangentMode: 10
+      - time: 0.05
+        value: 4.5834765
+        inSlope: 20.608597
+        outSlope: 20.608597
+        tangentMode: 10
+      - time: 0.083333336
+        value: -4.8883734
+        inSlope: -48.054085
+        outSlope: -48.054085
+        tangentMode: 10
+      - time: 0.11666667
+        value: 1.379869
+        inSlope: 60.103634
+        outSlope: 60.103634
+        tangentMode: 10
+      - time: 0.16666667
+        value: -2.0121324
+        inSlope: 8.662621
+        outSlope: 8.662621
+        tangentMode: 10
+      - time: 0.21666667
+        value: 2.2461305
+        inSlope: 12.205669
+        outSlope: 12.205669
+        tangentMode: 10
+      - time: 0.26666668
+        value: -0.7915665
+        inSlope: -6.629944
+        outSlope: -6.629944
+        tangentMode: 10
+      - time: 0.28333333
+        value: 0
+        inSlope: 47.494034
+        outSlope: 47.494034
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)/TreePineBranches03 (2)/TreePineBranches01
+      (2)/TreePineBranches02 (2)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.28333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)/TreePineBranches03 (2)/TreePineBranches01
+      (2)/TreePineBranches02 (2)/TreePineBranches04 (1)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.28333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)/TreePineBranches03 (2)/TreePineBranches01
+      (2)/TreePineBranches02 (2)/TreePineBranches04 (1)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: -137.41542
+        outSlope: -137.41542
+        tangentMode: 10
+      - time: 0.016666668
+        value: -2.2902572
+        inSlope: 223.82755
+        outSlope: 223.82755
+        tangentMode: 10
+      - time: 0.033333335
+        value: 7.460918
+        inSlope: 67.60693
+        outSlope: 67.60693
+        tangentMode: 10
+      - time: 0.06666667
+        value: -7.534304
+        inSlope: -36.326096
+        outSlope: -36.326096
+        tangentMode: 10
+      - time: 0.1
+        value: 5.039177
+        inSlope: 58.708878
+        outSlope: 58.708878
+        tangentMode: 10
+      - time: 0.13333334
+        value: -3.62038
+        inSlope: -59.442703
+        outSlope: -59.442703
+        tangentMode: 10
+      - time: 0.18333334
+        value: 3.4246836
+        inSlope: -0.9784775
+        outSlope: -0.9784775
+        tangentMode: 10
+      - time: 0.23333333
+        value: -3.7182279
+        inSlope: 56.26261
+        outSlope: 56.26261
+        tangentMode: 10
+      - time: 0.26666668
+        value: 4.794557
+        inSlope: -16.145126
+        outSlope: -16.145126
+        tangentMode: 10
+      - time: 0.28333333
+        value: 0
+        inSlope: -287.6737
+        outSlope: -287.6737
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)/TreePineBranches03 (2)/TreePineBranches01
+      (2)/TreePineBranches02 (2)/TreePineBranches04 (1)
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)/TreePineBranches03 (2)/TreePineBranches01
+      (2)/TreePineBranches02 (2)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)/TreePineBranches03 (2)/TreePineBranches01
+      (2)/TreePineBranches02 (2)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)/TreePineBranches03 (2)/TreePineBranches01
+      (2)/TreePineBranches02 (2)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)/TreePineBranches03 (2)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)/TreePineBranches03 (2)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)/TreePineBranches03 (2)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)/TreePineBranches03 (2)/TreePineBranches01
+      (2)/TreePineBranches02 (2)/TreePineBranches04 (1)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)/TreePineBranches03 (2)/TreePineBranches01
+      (2)/TreePineBranches02 (2)/TreePineBranches04 (1)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)/TreePineBranches03 (2)/TreePineBranches01
+      (2)/TreePineBranches02 (2)/TreePineBranches04 (1)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)/TreePineBranches03 (2)/TreePineBranches01
+      (2)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)/TreePineBranches03 (2)/TreePineBranches01
+      (2)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: TreePineBranches03 (1)/TreePineBranches01 (1)/TreePineBranches03 (2)/TreePineBranches01
+      (2)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: TreePineBranches03 (1)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: TreePineBranches03 (1)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: TreePineBranches03 (1)
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 1
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

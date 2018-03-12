@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Spider_hand_2
+  serializedVersion: 8
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 33
+    topology: 0
+    firstVertex: 0
+    vertexCount: 13
+    localAABB:
+      m_Center: {x: 0, y: 0, z: 0}
+      m_Extent: {x: 0.7536621, y: 0.5280762, z: 0}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes: 
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexBuffer: 00000b000c00080009000a00060008000a00010004000a00060007000800050006000a00040005000a00010002000300010003000400000001000a0000000a000b00
+  m_Skin: []
+  m_VertexData:
+    m_CurrentChannels: 15
+    m_VertexCount: 13
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 12
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 24
+      format: 0
+      dimension: 4
+    - stream: 0
+      offset: 40
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 624
+    _typelessdata: 0040423e0020f43e000000000000000000000000000080bf0000803f0000803f0000803f0000803f0000fb3d0080383e00a0bf3e00c0223e000000000000000000000000000080bf0000803f0000803f0000803f0000803f0080063e0000293e00f0403f00c0613e000000000000000000000000000080bf0000803f0000803f0000803f0000803f0000193e00002c3e00f0403f0080b2bd000000000000000000000000000080bf0000803f0000803f0000803f0000803f0000193e00001d3e0060903e00406cbe000000000000000000000000000080bf0000803f0000803f0000803f0000803f0000023e0000163e0080883d003007bf000000000000000000000000000080bf0000803f0000803f0000803f0000803f0000ef3d0080073e0020dfbe003007bf000000000000000000000000000080bf0000803f0000803f0000803f0000803f0000be3d0080073e00503ebf00e085be000000000000000000000000000080bf0000803f0000803f0000803f0000803f0000a03d0080143e00f040bf004042be000000000000000000000000000080bf0000803f0000803f0000803f0000803f00009f3d0000183e00f040bf0040033e000000000000000000000000000080bf0000803f0000803f0000803f0000803f00009f3d0080273e0080dcbd0060a53e000000000000000000000000000080bf0000803f0000803f0000803f0000803f0000de3d0000313e0000a8bb0030073f000000000000000000000000000080bf0000803f0000803f0000803f0000803f0000e83d00003b3e00c00d3e0030073f000000000000000000000000000080bf0000803f0000803f0000803f0000803f0000f63d00003b3e
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0.7536621, y: 0.5280762, z: 0}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshOptimized: 0

@@ -1,0 +1,659 @@
+fileFormatVersion: 2
+guid: 5116d733d9d9248cc8aa4800601bc2ff
+timeCreated: 1478772199
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Baa_Baa_reference_02:back1
+    100004: Baa_Baa_reference_02:black1
+    100006: Baa_Baa_reference_02:Black_Black_head1
+    100008: Baa_Baa_reference_02:Black_Black_neck1
+    100010: Baa_Baa_reference_02:body_black
+    100012: Baa_Baa_reference_02:body_white
+    100014: Baa_Baa_reference_02:foot_back_black_1
+    100016: Baa_Baa_reference_02:foot_back_black_2
+    100018: Baa_Baa_reference_02:foot_back_white_1
+    100020: Baa_Baa_reference_02:foot_back_white_2
+    100022: Baa_Baa_reference_02:foot_front_black_1
+    100024: Baa_Baa_reference_02:foot_front_black_2
+    100026: Baa_Baa_reference_02:foot_front_white_1
+    100028: Baa_Baa_reference_02:foot_front_white_2
+    100030: Baa_Baa_reference_02:head_black
+    100032: Baa_Baa_reference_02:head_white
+    100034: Baa_Baa_reference_02:ikHandle1
+    100036: Baa_Baa_reference_02:ikHandle1 1
+    100038: Baa_Baa_reference_02:ikHandle2
+    100040: Baa_Baa_reference_02:ikHandle2 1
+    100042: Baa_Baa_reference_02:ikHandle3
+    100044: Baa_Baa_reference_02:ikHandle3 1
+    100046: Baa_Baa_reference_02:ikHandle4
+    100048: Baa_Baa_reference_02:ikHandle4 1
+    100050: Baa_Baa_reference_02:ikHandle5
+    100052: Baa_Baa_reference_02:ikHandle6
+    100054: Baa_Baa_reference_02:ikHandle7
+    100056: Baa_Baa_reference_02:ikHandle8
+    100058: Baa_Baa_reference_02:joint10
+    100060: Baa_Baa_reference_02:joint10 1
+    100062: Baa_Baa_reference_02:joint11
+    100064: Baa_Baa_reference_02:joint11 1
+    100066: Baa_Baa_reference_02:joint13
+    100068: Baa_Baa_reference_02:joint13 1
+    100070: Baa_Baa_reference_02:joint13 2
+    100072: Baa_Baa_reference_02:joint13 3
+    100074: Baa_Baa_reference_02:joint13 4
+    100076: Baa_Baa_reference_02:joint13 5
+    100078: Baa_Baa_reference_02:joint13 6
+    100080: Baa_Baa_reference_02:joint13 7
+    100082: Baa_Baa_reference_02:joint14
+    100084: Baa_Baa_reference_02:joint14 1
+    100086: Baa_Baa_reference_02:joint14 2
+    100088: Baa_Baa_reference_02:joint14 3
+    100090: Baa_Baa_reference_02:joint14 4
+    100092: Baa_Baa_reference_02:joint14 5
+    100094: Baa_Baa_reference_02:joint14 6
+    100096: Baa_Baa_reference_02:joint14 7
+    100098: Baa_Baa_reference_02:joint9
+    100100: Baa_Baa_reference_02:joint9 1
+    100102: Baa_Baa_reference_02:joint_leg_back_black_1
+    100104: Baa_Baa_reference_02:joint_leg_back_black_2
+    100106: Baa_Baa_reference_02:joint_leg_back_white_1
+    100108: Baa_Baa_reference_02:joint_leg_back_white_2
+    100110: Baa_Baa_reference_02:joint_leg_front_black_1
+    100112: Baa_Baa_reference_02:joint_leg_front_blacke_2
+    100114: Baa_Baa_reference_02:joint_leg_front_white_1
+    100116: Baa_Baa_reference_02:joint_leg_front_white_2
+    100118: Baa_Baa_reference_02:Sheep_Black_body1
+    100120: Baa_Baa_reference_02:Sheep_ear:Sheep_ear
+    100122: Baa_Baa_reference_02:Sheep_ear_black1
+    100124: Baa_Baa_reference_02:Sheep_foot_back__black1
+    100126: Baa_Baa_reference_02:Sheep_foot_back_black2
+    100128: Baa_Baa_reference_02:Sheep_foot_back_white1
+    100130: Baa_Baa_reference_02:Sheep_foot_back_white2
+    100132: Baa_Baa_reference_02:Sheep_foot_front_black1
+    100134: Baa_Baa_reference_02:Sheep_foot_front_black2
+    100136: Baa_Baa_reference_02:Sheep_foot_front_white1
+    100138: Baa_Baa_reference_02:Sheep_foot_front_white2
+    100140: Baa_Baa_reference_02:Sheep_leg_back1_Black
+    100142: Baa_Baa_reference_02:Sheep_leg_back1_white
+    100144: Baa_Baa_reference_02:Sheep_leg_back2_Black1
+    100146: Baa_Baa_reference_02:Sheep_leg_back2_white
+    100148: Baa_Baa_reference_02:Sheep_leg_front_black1
+    100150: Baa_Baa_reference_02:Sheep_leg_front_black2
+    100152: Baa_Baa_reference_02:Sheep_leg_front_white1
+    100154: Baa_Baa_reference_02:Sheep_leg_front_white2
+    100156: Baa_Baa_reference_02:Sheep_lid:Sheep_lid
+    100158: Baa_Baa_reference_02:Sheep_lid_black1
+    100160: Baa_Baa_reference_02:Sheep_open:Sheep_open
+    100162: Baa_Baa_reference_02:Sheep_open_black1
+    100164: Baa_Baa_reference_02:Sheep_pupil:Sheep_pupil
+    100166: Baa_Baa_reference_02:Sheep_pupil_black1
+    100168: Baa_Baa_reference_02:Sheep_smile:Sheep_smile
+    100170: Baa_Baa_reference_02:Sheep_smile_black1
+    100172: Baa_Baa_reference_02:Sheep_thigh_back_Black1
+    100174: Baa_Baa_reference_02:Sheep_thigh_back_Black2
+    100176: Baa_Baa_reference_02:Sheep_thigh_front_black1
+    100178: Baa_Baa_reference_02:Sheep_thigh_front_black2
+    100180: Baa_Baa_reference_02:Sheep_thigh_front_white1
+    100182: Baa_Baa_reference_02:Sheep_thigh_front_white2
+    100184: Baa_Baa_reference_02:Sheep_White_body:Sheep_White_body
+    100186: Baa_Baa_reference_02:Sheep_White_head:Sheep_White_head
+    100188: Baa_Baa_reference_02:Sheep_White_neck:Sheep_White_neck
+    100190: Baa_Baa_reference_02:Sheep_White_thigh_back_white1
+    100192: Baa_Baa_reference_02:Sheep_White_thigh_back_white2
+    100194: Baa_Baa_reference_02:smile_white
+    100196: Baa_Baa_reference_02:white
+    100198: back1
+    400000: //RootNode
+    400002: Baa_Baa_reference_02:back1
+    400004: Baa_Baa_reference_02:black1
+    400006: Baa_Baa_reference_02:Black_Black_head1
+    400008: Baa_Baa_reference_02:Black_Black_neck1
+    400010: Baa_Baa_reference_02:body_black
+    400012: Baa_Baa_reference_02:body_white
+    400014: Baa_Baa_reference_02:foot_back_black_1
+    400016: Baa_Baa_reference_02:foot_back_black_2
+    400018: Baa_Baa_reference_02:foot_back_white_1
+    400020: Baa_Baa_reference_02:foot_back_white_2
+    400022: Baa_Baa_reference_02:foot_front_black_1
+    400024: Baa_Baa_reference_02:foot_front_black_2
+    400026: Baa_Baa_reference_02:foot_front_white_1
+    400028: Baa_Baa_reference_02:foot_front_white_2
+    400030: Baa_Baa_reference_02:head_black
+    400032: Baa_Baa_reference_02:head_white
+    400034: Baa_Baa_reference_02:ikHandle1
+    400036: Baa_Baa_reference_02:ikHandle1 1
+    400038: Baa_Baa_reference_02:ikHandle2
+    400040: Baa_Baa_reference_02:ikHandle2 1
+    400042: Baa_Baa_reference_02:ikHandle3
+    400044: Baa_Baa_reference_02:ikHandle3 1
+    400046: Baa_Baa_reference_02:ikHandle4
+    400048: Baa_Baa_reference_02:ikHandle4 1
+    400050: Baa_Baa_reference_02:ikHandle5
+    400052: Baa_Baa_reference_02:ikHandle6
+    400054: Baa_Baa_reference_02:ikHandle7
+    400056: Baa_Baa_reference_02:ikHandle8
+    400058: Baa_Baa_reference_02:joint10
+    400060: Baa_Baa_reference_02:joint10 1
+    400062: Baa_Baa_reference_02:joint11
+    400064: Baa_Baa_reference_02:joint11 1
+    400066: Baa_Baa_reference_02:joint13
+    400068: Baa_Baa_reference_02:joint13 1
+    400070: Baa_Baa_reference_02:joint13 2
+    400072: Baa_Baa_reference_02:joint13 3
+    400074: Baa_Baa_reference_02:joint13 4
+    400076: Baa_Baa_reference_02:joint13 5
+    400078: Baa_Baa_reference_02:joint13 6
+    400080: Baa_Baa_reference_02:joint13 7
+    400082: Baa_Baa_reference_02:joint14
+    400084: Baa_Baa_reference_02:joint14 1
+    400086: Baa_Baa_reference_02:joint14 2
+    400088: Baa_Baa_reference_02:joint14 3
+    400090: Baa_Baa_reference_02:joint14 4
+    400092: Baa_Baa_reference_02:joint14 5
+    400094: Baa_Baa_reference_02:joint14 6
+    400096: Baa_Baa_reference_02:joint14 7
+    400098: Baa_Baa_reference_02:joint9
+    400100: Baa_Baa_reference_02:joint9 1
+    400102: Baa_Baa_reference_02:joint_leg_back_black_1
+    400104: Baa_Baa_reference_02:joint_leg_back_black_2
+    400106: Baa_Baa_reference_02:joint_leg_back_white_1
+    400108: Baa_Baa_reference_02:joint_leg_back_white_2
+    400110: Baa_Baa_reference_02:joint_leg_front_black_1
+    400112: Baa_Baa_reference_02:joint_leg_front_blacke_2
+    400114: Baa_Baa_reference_02:joint_leg_front_white_1
+    400116: Baa_Baa_reference_02:joint_leg_front_white_2
+    400118: Baa_Baa_reference_02:Sheep_Black_body1
+    400120: Baa_Baa_reference_02:Sheep_ear:Sheep_ear
+    400122: Baa_Baa_reference_02:Sheep_ear_black1
+    400124: Baa_Baa_reference_02:Sheep_foot_back__black1
+    400126: Baa_Baa_reference_02:Sheep_foot_back_black2
+    400128: Baa_Baa_reference_02:Sheep_foot_back_white1
+    400130: Baa_Baa_reference_02:Sheep_foot_back_white2
+    400132: Baa_Baa_reference_02:Sheep_foot_front_black1
+    400134: Baa_Baa_reference_02:Sheep_foot_front_black2
+    400136: Baa_Baa_reference_02:Sheep_foot_front_white1
+    400138: Baa_Baa_reference_02:Sheep_foot_front_white2
+    400140: Baa_Baa_reference_02:Sheep_leg_back1_Black
+    400142: Baa_Baa_reference_02:Sheep_leg_back1_white
+    400144: Baa_Baa_reference_02:Sheep_leg_back2_Black1
+    400146: Baa_Baa_reference_02:Sheep_leg_back2_white
+    400148: Baa_Baa_reference_02:Sheep_leg_front_black1
+    400150: Baa_Baa_reference_02:Sheep_leg_front_black2
+    400152: Baa_Baa_reference_02:Sheep_leg_front_white1
+    400154: Baa_Baa_reference_02:Sheep_leg_front_white2
+    400156: Baa_Baa_reference_02:Sheep_lid:Sheep_lid
+    400158: Baa_Baa_reference_02:Sheep_lid_black1
+    400160: Baa_Baa_reference_02:Sheep_open:Sheep_open
+    400162: Baa_Baa_reference_02:Sheep_open_black1
+    400164: Baa_Baa_reference_02:Sheep_pupil:Sheep_pupil
+    400166: Baa_Baa_reference_02:Sheep_pupil_black1
+    400168: Baa_Baa_reference_02:Sheep_smile:Sheep_smile
+    400170: Baa_Baa_reference_02:Sheep_smile_black1
+    400172: Baa_Baa_reference_02:Sheep_thigh_back_Black1
+    400174: Baa_Baa_reference_02:Sheep_thigh_back_Black2
+    400176: Baa_Baa_reference_02:Sheep_thigh_front_black1
+    400178: Baa_Baa_reference_02:Sheep_thigh_front_black2
+    400180: Baa_Baa_reference_02:Sheep_thigh_front_white1
+    400182: Baa_Baa_reference_02:Sheep_thigh_front_white2
+    400184: Baa_Baa_reference_02:Sheep_White_body:Sheep_White_body
+    400186: Baa_Baa_reference_02:Sheep_White_head:Sheep_White_head
+    400188: Baa_Baa_reference_02:Sheep_White_neck:Sheep_White_neck
+    400190: Baa_Baa_reference_02:Sheep_White_thigh_back_white1
+    400192: Baa_Baa_reference_02:Sheep_White_thigh_back_white2
+    400194: Baa_Baa_reference_02:smile_white
+    400196: Baa_Baa_reference_02:white
+    400198: back1
+    2300000: Baa_Baa_reference_02:Black_Black_head1
+    2300002: Baa_Baa_reference_02:Black_Black_neck1
+    2300004: Baa_Baa_reference_02:Sheep_Black_body1
+    2300006: Baa_Baa_reference_02:Sheep_ear:Sheep_ear
+    2300008: Baa_Baa_reference_02:Sheep_ear_black1
+    2300010: Baa_Baa_reference_02:Sheep_foot_back__black1
+    2300012: Baa_Baa_reference_02:Sheep_foot_back_black2
+    2300014: Baa_Baa_reference_02:Sheep_foot_back_white1
+    2300016: Baa_Baa_reference_02:Sheep_foot_back_white2
+    2300018: Baa_Baa_reference_02:Sheep_foot_front_black1
+    2300020: Baa_Baa_reference_02:Sheep_foot_front_black2
+    2300022: Baa_Baa_reference_02:Sheep_foot_front_white1
+    2300024: Baa_Baa_reference_02:Sheep_foot_front_white2
+    2300026: Baa_Baa_reference_02:Sheep_leg_back1_Black
+    2300028: Baa_Baa_reference_02:Sheep_leg_back1_white
+    2300030: Baa_Baa_reference_02:Sheep_leg_back2_Black1
+    2300032: Baa_Baa_reference_02:Sheep_leg_back2_white
+    2300034: Baa_Baa_reference_02:Sheep_leg_front_black1
+    2300036: Baa_Baa_reference_02:Sheep_leg_front_black2
+    2300038: Baa_Baa_reference_02:Sheep_leg_front_white1
+    2300040: Baa_Baa_reference_02:Sheep_leg_front_white2
+    2300042: Baa_Baa_reference_02:Sheep_lid:Sheep_lid
+    2300044: Baa_Baa_reference_02:Sheep_lid_black1
+    2300046: Baa_Baa_reference_02:Sheep_open:Sheep_open
+    2300048: Baa_Baa_reference_02:Sheep_open_black1
+    2300050: Baa_Baa_reference_02:Sheep_pupil:Sheep_pupil
+    2300052: Baa_Baa_reference_02:Sheep_pupil_black1
+    2300054: Baa_Baa_reference_02:Sheep_smile:Sheep_smile
+    2300056: Baa_Baa_reference_02:Sheep_smile_black1
+    2300058: Baa_Baa_reference_02:Sheep_thigh_back_Black1
+    2300060: Baa_Baa_reference_02:Sheep_thigh_back_Black2
+    2300062: Baa_Baa_reference_02:Sheep_thigh_front_black1
+    2300064: Baa_Baa_reference_02:Sheep_thigh_front_black2
+    2300066: Baa_Baa_reference_02:Sheep_thigh_front_white1
+    2300068: Baa_Baa_reference_02:Sheep_thigh_front_white2
+    2300070: Baa_Baa_reference_02:Sheep_White_body:Sheep_White_body
+    2300072: Baa_Baa_reference_02:Sheep_White_head:Sheep_White_head
+    2300074: Baa_Baa_reference_02:Sheep_White_neck:Sheep_White_neck
+    2300076: Baa_Baa_reference_02:Sheep_White_thigh_back_white1
+    2300078: Baa_Baa_reference_02:Sheep_White_thigh_back_white2
+    3300000: Baa_Baa_reference_02:Black_Black_head1
+    3300002: Baa_Baa_reference_02:Black_Black_neck1
+    3300004: Baa_Baa_reference_02:Sheep_Black_body1
+    3300006: Baa_Baa_reference_02:Sheep_ear:Sheep_ear
+    3300008: Baa_Baa_reference_02:Sheep_ear_black1
+    3300010: Baa_Baa_reference_02:Sheep_foot_back__black1
+    3300012: Baa_Baa_reference_02:Sheep_foot_back_black2
+    3300014: Baa_Baa_reference_02:Sheep_foot_back_white1
+    3300016: Baa_Baa_reference_02:Sheep_foot_back_white2
+    3300018: Baa_Baa_reference_02:Sheep_foot_front_black1
+    3300020: Baa_Baa_reference_02:Sheep_foot_front_black2
+    3300022: Baa_Baa_reference_02:Sheep_foot_front_white1
+    3300024: Baa_Baa_reference_02:Sheep_foot_front_white2
+    3300026: Baa_Baa_reference_02:Sheep_leg_back1_Black
+    3300028: Baa_Baa_reference_02:Sheep_leg_back1_white
+    3300030: Baa_Baa_reference_02:Sheep_leg_back2_Black1
+    3300032: Baa_Baa_reference_02:Sheep_leg_back2_white
+    3300034: Baa_Baa_reference_02:Sheep_leg_front_black1
+    3300036: Baa_Baa_reference_02:Sheep_leg_front_black2
+    3300038: Baa_Baa_reference_02:Sheep_leg_front_white1
+    3300040: Baa_Baa_reference_02:Sheep_leg_front_white2
+    3300042: Baa_Baa_reference_02:Sheep_lid:Sheep_lid
+    3300044: Baa_Baa_reference_02:Sheep_lid_black1
+    3300046: Baa_Baa_reference_02:Sheep_open:Sheep_open
+    3300048: Baa_Baa_reference_02:Sheep_open_black1
+    3300050: Baa_Baa_reference_02:Sheep_pupil:Sheep_pupil
+    3300052: Baa_Baa_reference_02:Sheep_pupil_black1
+    3300054: Baa_Baa_reference_02:Sheep_smile:Sheep_smile
+    3300056: Baa_Baa_reference_02:Sheep_smile_black1
+    3300058: Baa_Baa_reference_02:Sheep_thigh_back_Black1
+    3300060: Baa_Baa_reference_02:Sheep_thigh_back_Black2
+    3300062: Baa_Baa_reference_02:Sheep_thigh_front_black1
+    3300064: Baa_Baa_reference_02:Sheep_thigh_front_black2
+    3300066: Baa_Baa_reference_02:Sheep_thigh_front_white1
+    3300068: Baa_Baa_reference_02:Sheep_thigh_front_white2
+    3300070: Baa_Baa_reference_02:Sheep_White_body:Sheep_White_body
+    3300072: Baa_Baa_reference_02:Sheep_White_head:Sheep_White_head
+    3300074: Baa_Baa_reference_02:Sheep_White_neck:Sheep_White_neck
+    3300076: Baa_Baa_reference_02:Sheep_White_thigh_back_white1
+    3300078: Baa_Baa_reference_02:Sheep_White_thigh_back_white2
+    4300000: Baa_Baa_reference_02:Sheep_foot_back_white2
+    4300002: Baa_Baa_reference_02:Sheep_foot_front_white1
+    4300004: Baa_Baa_reference_02:Sheep_foot_front_white2
+    4300006: Baa_Baa_reference_02:Sheep_foot_back_white1
+    4300008: Baa_Baa_reference_02:Sheep_White_head:Sheep_White_head
+    4300010: Baa_Baa_reference_02:Sheep_ear:Sheep_ear
+    4300012: Baa_Baa_reference_02:Sheep_pupil:Sheep_pupil
+    4300014: Baa_Baa_reference_02:Sheep_lid:Sheep_lid
+    4300016: Baa_Baa_reference_02:Sheep_smile:Sheep_smile
+    4300018: Baa_Baa_reference_02:Sheep_open:Sheep_open
+    4300020: Baa_Baa_reference_02:Sheep_White_neck:Sheep_White_neck
+    4300022: Baa_Baa_reference_02:Sheep_White_body:Sheep_White_body
+    4300024: Baa_Baa_reference_02:Sheep_leg_back1_white
+    4300026: Baa_Baa_reference_02:Sheep_White_thigh_back_white1
+    4300028: Baa_Baa_reference_02:Sheep_leg_back2_white
+    4300030: Baa_Baa_reference_02:Sheep_White_thigh_back_white2
+    4300032: Baa_Baa_reference_02:Sheep_leg_front_white1
+    4300034: Baa_Baa_reference_02:Sheep_thigh_front_white1
+    4300036: Baa_Baa_reference_02:Sheep_leg_front_white2
+    4300038: Baa_Baa_reference_02:Sheep_thigh_front_white2
+    4300040: Baa_Baa_reference_02:Sheep_foot_back_black2
+    4300042: Baa_Baa_reference_02:Sheep_foot_front_black1
+    4300044: Baa_Baa_reference_02:Sheep_foot_front_black2
+    4300046: Baa_Baa_reference_02:Sheep_foot_back__black1
+    4300048: Baa_Baa_reference_02:Black_Black_head1
+    4300050: Baa_Baa_reference_02:Sheep_ear_black1
+    4300052: Baa_Baa_reference_02:Sheep_pupil_black1
+    4300054: Baa_Baa_reference_02:Sheep_lid_black1
+    4300056: Baa_Baa_reference_02:Sheep_smile_black1
+    4300058: Baa_Baa_reference_02:Sheep_open_black1
+    4300060: Baa_Baa_reference_02:Black_Black_neck1
+    4300062: Baa_Baa_reference_02:Sheep_Black_body1
+    4300064: Baa_Baa_reference_02:Sheep_leg_back1_Black
+    4300066: Baa_Baa_reference_02:Sheep_thigh_back_Black1
+    4300068: Baa_Baa_reference_02:Sheep_leg_back2_Black1
+    4300070: Baa_Baa_reference_02:Sheep_thigh_back_Black2
+    4300072: Baa_Baa_reference_02:Sheep_leg_front_black1
+    4300074: Baa_Baa_reference_02:Sheep_thigh_front_black1
+    4300076: Baa_Baa_reference_02:Sheep_leg_front_black2
+    4300078: Baa_Baa_reference_02:Sheep_thigh_front_black2
+    7400000: Baa_Baa_anim_idle_02
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Baa_Baa_anim_idle_02
+      takeName: Baa_Baa_anim_idle_02
+      firstFrame: 1
+      lastFrame: 240
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Baa_Baa_reference_02:back1
+        weight: 1
+      - path: Baa_Baa_reference_02:black1
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint9
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint9/Baa_Baa_reference_02:joint10
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint9/Baa_Baa_reference_02:joint10/Baa_Baa_reference_02:Black_Black_neck1
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint9/Baa_Baa_reference_02:joint10/Baa_Baa_reference_02:joint11
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint9/Baa_Baa_reference_02:joint10/Baa_Baa_reference_02:joint11/Baa_Baa_reference_02:head_black
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint9/Baa_Baa_reference_02:joint10/Baa_Baa_reference_02:joint11/Baa_Baa_reference_02:head_black/Baa_Baa_reference_02:Black_Black_head1
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint9/Baa_Baa_reference_02:joint10/Baa_Baa_reference_02:joint11/Baa_Baa_reference_02:head_black/Baa_Baa_reference_02:Black_Black_head1/Baa_Baa_reference_02:Sheep_ear_black1
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint9/Baa_Baa_reference_02:joint10/Baa_Baa_reference_02:joint11/Baa_Baa_reference_02:head_black/Baa_Baa_reference_02:Black_Black_head1/Baa_Baa_reference_02:Sheep_lid_black1
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint9/Baa_Baa_reference_02:joint10/Baa_Baa_reference_02:joint11/Baa_Baa_reference_02:head_black/Baa_Baa_reference_02:Black_Black_head1/Baa_Baa_reference_02:Sheep_pupil_black1
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint9/Baa_Baa_reference_02:joint10/Baa_Baa_reference_02:joint11/Baa_Baa_reference_02:head_black/Baa_Baa_reference_02:Black_Black_head1/Baa_Baa_reference_02:Sheep_smile_black1
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint9/Baa_Baa_reference_02:joint10/Baa_Baa_reference_02:joint11/Baa_Baa_reference_02:head_black/Baa_Baa_reference_02:Black_Black_head1/Baa_Baa_reference_02:Sheep_smile_black1/Baa_Baa_reference_02:Sheep_open_black1
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint9/Baa_Baa_reference_02:Sheep_Black_body1
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint_leg_back_black_1
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint_leg_back_black_1/Baa_Baa_reference_02:joint13
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint_leg_back_black_1/Baa_Baa_reference_02:joint13/Baa_Baa_reference_02:joint14
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint_leg_back_black_1/Baa_Baa_reference_02:joint13/Baa_Baa_reference_02:Sheep_leg_back1_Black
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint_leg_back_black_1/Baa_Baa_reference_02:Sheep_thigh_back_Black1
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint_leg_back_black_2
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint_leg_back_black_2/Baa_Baa_reference_02:joint13
+          1
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint_leg_back_black_2/Baa_Baa_reference_02:joint13
+          1/Baa_Baa_reference_02:joint14 1
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint_leg_back_black_2/Baa_Baa_reference_02:joint13
+          1/Baa_Baa_reference_02:Sheep_leg_back2_Black1
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint_leg_back_black_2/Baa_Baa_reference_02:Sheep_thigh_back_Black2
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint_leg_front_black_1
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint_leg_front_black_1/Baa_Baa_reference_02:joint13
+          2
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint_leg_front_black_1/Baa_Baa_reference_02:joint13
+          2/Baa_Baa_reference_02:joint14 2
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint_leg_front_black_1/Baa_Baa_reference_02:joint13
+          2/Baa_Baa_reference_02:Sheep_leg_front_black1
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint_leg_front_black_1/Baa_Baa_reference_02:Sheep_thigh_front_black1
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint_leg_front_blacke_2
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint_leg_front_blacke_2/Baa_Baa_reference_02:joint13
+          3
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint_leg_front_blacke_2/Baa_Baa_reference_02:joint13
+          3/Baa_Baa_reference_02:joint14 3
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint_leg_front_blacke_2/Baa_Baa_reference_02:joint13
+          3/Baa_Baa_reference_02:Sheep_leg_front_black2
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:body_black/Baa_Baa_reference_02:joint_leg_front_blacke_2/Baa_Baa_reference_02:Sheep_thigh_front_black2
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:foot_back_black_1
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:foot_back_black_1/Baa_Baa_reference_02:ikHandle1
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:foot_back_black_1/Baa_Baa_reference_02:ikHandle5
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:foot_back_black_1/Baa_Baa_reference_02:Sheep_foot_back__black1
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:foot_back_black_2
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:foot_back_black_2/Baa_Baa_reference_02:ikHandle2
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:foot_back_black_2/Baa_Baa_reference_02:ikHandle6
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:foot_back_black_2/Baa_Baa_reference_02:Sheep_foot_back_black2
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:foot_front_black_1
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:foot_front_black_1/Baa_Baa_reference_02:ikHandle3
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:foot_front_black_1/Baa_Baa_reference_02:ikHandle7
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:foot_front_black_1/Baa_Baa_reference_02:Sheep_foot_front_black1
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:foot_front_black_2
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:foot_front_black_2/Baa_Baa_reference_02:ikHandle4
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:foot_front_black_2/Baa_Baa_reference_02:ikHandle8
+        weight: 1
+      - path: Baa_Baa_reference_02:black1/Baa_Baa_reference_02:foot_front_black_2/Baa_Baa_reference_02:Sheep_foot_front_black2
+        weight: 1
+      - path: Baa_Baa_reference_02:white
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint9
+          1
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint9
+          1/Baa_Baa_reference_02:joint10 1
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint9
+          1/Baa_Baa_reference_02:joint10 1/Baa_Baa_reference_02:joint11 1
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint9
+          1/Baa_Baa_reference_02:joint10 1/Baa_Baa_reference_02:joint11 1/Baa_Baa_reference_02:head_white
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint9
+          1/Baa_Baa_reference_02:joint10 1/Baa_Baa_reference_02:joint11 1/Baa_Baa_reference_02:head_white/Baa_Baa_reference_02:Sheep_White_head:Sheep_White_head
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint9
+          1/Baa_Baa_reference_02:joint10 1/Baa_Baa_reference_02:joint11 1/Baa_Baa_reference_02:head_white/Baa_Baa_reference_02:Sheep_White_head:Sheep_White_head/Baa_Baa_reference_02:Sheep_ear:Sheep_ear
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint9
+          1/Baa_Baa_reference_02:joint10 1/Baa_Baa_reference_02:joint11 1/Baa_Baa_reference_02:head_white/Baa_Baa_reference_02:Sheep_White_head:Sheep_White_head/Baa_Baa_reference_02:Sheep_lid:Sheep_lid
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint9
+          1/Baa_Baa_reference_02:joint10 1/Baa_Baa_reference_02:joint11 1/Baa_Baa_reference_02:head_white/Baa_Baa_reference_02:Sheep_White_head:Sheep_White_head/Baa_Baa_reference_02:Sheep_pupil:Sheep_pupil
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint9
+          1/Baa_Baa_reference_02:joint10 1/Baa_Baa_reference_02:joint11 1/Baa_Baa_reference_02:head_white/Baa_Baa_reference_02:Sheep_White_head:Sheep_White_head/Baa_Baa_reference_02:Sheep_smile:Sheep_smile
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint9
+          1/Baa_Baa_reference_02:joint10 1/Baa_Baa_reference_02:joint11 1/Baa_Baa_reference_02:head_white/Baa_Baa_reference_02:Sheep_White_head:Sheep_White_head/Baa_Baa_reference_02:Sheep_smile:Sheep_smile/Baa_Baa_reference_02:Sheep_open:Sheep_open
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint9
+          1/Baa_Baa_reference_02:joint10 1/Baa_Baa_reference_02:joint11 1/Baa_Baa_reference_02:head_white/Baa_Baa_reference_02:Sheep_White_head:Sheep_White_head/Baa_Baa_reference_02:smile_white
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint9
+          1/Baa_Baa_reference_02:joint10 1/Baa_Baa_reference_02:Sheep_White_neck:Sheep_White_neck
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint9
+          1/Baa_Baa_reference_02:Sheep_White_body:Sheep_White_body
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint_leg_back_white_1
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint_leg_back_white_1/Baa_Baa_reference_02:joint13
+          4
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint_leg_back_white_1/Baa_Baa_reference_02:joint13
+          4/Baa_Baa_reference_02:joint14 4
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint_leg_back_white_1/Baa_Baa_reference_02:joint13
+          4/Baa_Baa_reference_02:Sheep_leg_back1_white
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint_leg_back_white_1/Baa_Baa_reference_02:Sheep_White_thigh_back_white1
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint_leg_back_white_2
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint_leg_back_white_2/Baa_Baa_reference_02:joint13
+          5
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint_leg_back_white_2/Baa_Baa_reference_02:joint13
+          5/Baa_Baa_reference_02:joint14 5
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint_leg_back_white_2/Baa_Baa_reference_02:joint13
+          5/Baa_Baa_reference_02:Sheep_leg_back2_white
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint_leg_back_white_2/Baa_Baa_reference_02:Sheep_White_thigh_back_white2
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint_leg_front_white_1
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint_leg_front_white_1/Baa_Baa_reference_02:joint13
+          6
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint_leg_front_white_1/Baa_Baa_reference_02:joint13
+          6/Baa_Baa_reference_02:joint14 6
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint_leg_front_white_1/Baa_Baa_reference_02:joint13
+          6/Baa_Baa_reference_02:Sheep_leg_front_white1
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint_leg_front_white_1/Baa_Baa_reference_02:Sheep_thigh_front_white1
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint_leg_front_white_2
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint_leg_front_white_2/Baa_Baa_reference_02:joint13
+          7
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint_leg_front_white_2/Baa_Baa_reference_02:joint13
+          7/Baa_Baa_reference_02:joint14 7
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint_leg_front_white_2/Baa_Baa_reference_02:joint13
+          7/Baa_Baa_reference_02:Sheep_leg_front_white2
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:body_white/Baa_Baa_reference_02:joint_leg_front_white_2/Baa_Baa_reference_02:Sheep_thigh_front_white2
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:foot_back_white_1
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:foot_back_white_1/Baa_Baa_reference_02:ikHandle1
+          1
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:foot_back_white_1/Baa_Baa_reference_02:Sheep_foot_back_white1
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:foot_back_white_2
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:foot_back_white_2/Baa_Baa_reference_02:ikHandle2
+          1
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:foot_back_white_2/Baa_Baa_reference_02:Sheep_foot_back_white2
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:foot_front_white_1
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:foot_front_white_1/Baa_Baa_reference_02:ikHandle3
+          1
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:foot_front_white_1/Baa_Baa_reference_02:Sheep_foot_front_white1
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:foot_front_white_2
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:foot_front_white_2/Baa_Baa_reference_02:ikHandle4
+          1
+        weight: 1
+      - path: Baa_Baa_reference_02:white/Baa_Baa_reference_02:foot_front_white_2/Baa_Baa_reference_02:Sheep_foot_front_white2
+        weight: 1
+      - path: back1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

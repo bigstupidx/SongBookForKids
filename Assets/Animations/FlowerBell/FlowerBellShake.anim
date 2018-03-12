@@ -1,0 +1,611 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: FlowerBellShake
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: -21.582}
+        inSlope: {x: 0, y: 0, z: 40.12512}
+        outSlope: {x: 0, y: 0, z: 40.12512}
+        tangentMode: 0
+      - time: 0.16666667
+        value: {x: 0, y: 0, z: -14.894481}
+        inSlope: {x: 0, y: 0, z: -4.077488}
+        outSlope: {x: 0, y: 0, z: -4.077488}
+        tangentMode: 0
+      - time: 0.4
+        value: {x: 0, y: 0, z: -26.159836}
+        inSlope: {x: 0, y: 0, z: 11.86334}
+        outSlope: {x: 0, y: 0, z: 11.86334}
+        tangentMode: 0
+      - time: 0.53333336
+        value: {x: 0, y: 0, z: -16.558931}
+        inSlope: {x: 0, y: 0, z: -15.216324}
+        outSlope: {x: 0, y: 0, z: -15.216324}
+        tangentMode: 0
+      - time: 0.6
+        value: {x: 0, y: 0, z: -23.388226}
+        inSlope: {x: 0, y: 0, z: -41.20424}
+        outSlope: {x: 0, y: 0, z: -41.20424}
+        tangentMode: 0
+      - time: 0.8
+        value: {x: 0, y: 0, z: -19.382036}
+        inSlope: {x: 0, y: 0, z: 4.5155625}
+        outSlope: {x: 0, y: 0, z: 4.5155625}
+        tangentMode: 0
+      - time: 1
+        value: {x: 0, y: 0, z: -21.582}
+        inSlope: {x: 0, y: 0, z: -10.999824}
+        outSlope: {x: 0, y: 0, z: -10.999824}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: FlowerBell01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 21.582}
+        inSlope: {x: 0, y: 0, z: 32.64923}
+        outSlope: {x: 0, y: 0, z: 32.64923}
+        tangentMode: 0
+      - time: 0.2
+        value: {x: 0, y: 0, z: 28.111847}
+        inSlope: {x: 0, y: 0, z: -5.093561}
+        outSlope: {x: 0, y: 0, z: -5.093561}
+        tangentMode: 0
+      - time: 0.46666667
+        value: {x: 0, y: 0, z: 16.68882}
+        inSlope: {x: 0, y: 0, z: 27.374712}
+        outSlope: {x: 0, y: 0, z: 27.374712}
+        tangentMode: 0
+      - time: 0.56666666
+        value: {x: 0, y: 0, z: 26.447397}
+        inSlope: {x: 0, y: 0, z: -2.4268227}
+        outSlope: {x: 0, y: 0, z: -2.4268227}
+        tangentMode: 0
+      - time: 0.6333333
+        value: {x: 0, y: 0, z: 19.618103}
+        inSlope: {x: 0, y: 0, z: -38.728127}
+        outSlope: {x: 0, y: 0, z: -38.728127}
+        tangentMode: 0
+      - time: 0.8
+        value: {x: 0, y: 0, z: 23.781965}
+        inSlope: {x: 0, y: 0, z: 6.991673}
+        outSlope: {x: 0, y: 0, z: 6.991673}
+        tangentMode: 0
+      - time: 1
+        value: {x: 0, y: 0, z: 21.582}
+        inSlope: {x: 0, y: 0, z: -10.999824}
+        outSlope: {x: 0, y: 0, z: -10.999824}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: FlowerBell01/FlowerBellFlower04
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 21.582}
+        inSlope: {x: 0, y: 0, z: 16.09356}
+        outSlope: {x: 0, y: 0, z: 16.09356}
+        tangentMode: 0
+      - time: 0.2
+        value: {x: 0, y: 0, z: 24.800713}
+        inSlope: {x: 0, y: 0, z: -7.16302}
+        outSlope: {x: 0, y: 0, z: -7.16302}
+        tangentMode: 0
+      - time: 0.46666667
+        value: {x: 0, y: 0, z: 16.68882}
+        inSlope: {x: 0, y: 0, z: 32.794724}
+        outSlope: {x: 0, y: 0, z: 32.794724}
+        tangentMode: 0
+      - time: 0.56666666
+        value: {x: 0, y: 0, z: 26.289724}
+        inSlope: {x: 0, y: 0, z: -4.397732}
+        outSlope: {x: 0, y: 0, z: -4.397732}
+        tangentMode: 0
+      - time: 0.6333333
+        value: {x: 0, y: 0, z: 19.302757}
+        inSlope: {x: 0, y: 0, z: -38.964634}
+        outSlope: {x: 0, y: 0, z: -38.964634}
+        tangentMode: 0
+      - time: 0.8
+        value: {x: 0, y: 0, z: 23.781965}
+        inSlope: {x: 0, y: 0, z: 7.9377103}
+        outSlope: {x: 0, y: 0, z: 7.9377103}
+        tangentMode: 0
+      - time: 1
+        value: {x: 0, y: 0, z: 21.582}
+        inSlope: {x: 0, y: 0, z: -10.999824}
+        outSlope: {x: 0, y: 0, z: -10.999824}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: FlowerBell01/FlowerBellFlower03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 42.85138}
+        outSlope: {x: 0, y: 0, z: 42.85138}
+        tangentMode: 0
+      - time: 0.23333333
+        value: {x: 0, y: 0, z: 9.998655}
+        inSlope: {x: 0, y: 0, z: -8.2703285}
+        outSlope: {x: 0, y: 0, z: -8.2703285}
+        tangentMode: 0
+      - time: 0.5
+        value: {x: 0, y: 0, z: -5.8392196}
+        inSlope: {x: 0, y: 0, z: 25.403786}
+        outSlope: {x: 0, y: 0, z: 25.403786}
+        tangentMode: 0
+      - time: 0.6
+        value: {x: 0, y: 0, z: 5.1807437}
+        inSlope: {x: 0, y: 0, z: -13.858135}
+        outSlope: {x: 0, y: 0, z: -13.858135}
+        tangentMode: 0
+      - time: 0.6666667
+        value: {x: 0, y: 0, z: -4.013647}
+        inSlope: {x: 0, y: 0, z: -45.6569}
+        outSlope: {x: 0, y: 0, z: -45.6569}
+        tangentMode: 0
+      - time: 0.8
+        value: {x: 0, y: 0, z: 2.1999636}
+        inSlope: {x: 0, y: 0, z: 17.801132}
+        outSlope: {x: 0, y: 0, z: 17.801132}
+        tangentMode: 0
+      - time: 1
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: -10.999819}
+        outSlope: {x: 0, y: 0, z: -10.999819}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: FlowerBell01/FlowerBellFlower03/FlowerBellFlower02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 87.16198}
+        outSlope: {x: 0, y: 0, z: 87.16198}
+        tangentMode: 0
+      - time: 0.26666668
+        value: {x: 0, y: 0, z: 23.243196}
+        inSlope: {x: 0, y: 0, z: -60.972355}
+        outSlope: {x: 0, y: 0, z: -60.972355}
+        tangentMode: 0
+      - time: 0.5
+        value: {x: 0, y: 0, z: -25.548359}
+        inSlope: {x: 0, y: 0, z: 68.62567}
+        outSlope: {x: 0, y: 0, z: 68.62567}
+        tangentMode: 0
+      - time: 0.6333333
+        value: {x: 0, y: 0, z: 20.63271}
+        inSlope: {x: 0, y: 0, z: -32.04274}
+        outSlope: {x: 0, y: 0, z: -32.04274}
+        tangentMode: 0
+      - time: 0.73333335
+        value: {x: 0, y: 0, z: -20.411652}
+        inSlope: {x: 0, y: 0, z: -26.17424}
+        outSlope: {x: 0, y: 0, z: -26.17424}
+        tangentMode: 0
+      - time: 0.8
+        value: {x: 0, y: 0, z: 3.4613485}
+        inSlope: {x: 0, y: 0, z: 170.39415}
+        outSlope: {x: 0, y: 0, z: 170.39415}
+        tangentMode: 0
+      - time: 1
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: -17.306744}
+        outSlope: {x: 0, y: 0, z: -17.306744}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: FlowerBell01/FlowerBellFlower03/FlowerBellFlower02/FlowerBellFlower05
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 90.15332}
+        outSlope: {x: 0, y: 0, z: 90.15332}
+        tangentMode: 0
+      - time: 0.23333333
+        value: {x: 0, y: 0, z: 21.035774}
+        inSlope: {x: 0, y: 0, z: -22.756546}
+        outSlope: {x: 0, y: 0, z: -22.756546}
+        tangentMode: 0
+      - time: 0.5
+        value: {x: 0, y: 0, z: -15.1419325}
+        inSlope: {x: 0, y: 0, z: 96.849396}
+        outSlope: {x: 0, y: 0, z: 96.849396}
+        tangentMode: 0
+      - time: 0.6
+        value: {x: 0, y: 0, z: 17.794594}
+        inSlope: {x: 0, y: 0, z: -40.268402}
+        outSlope: {x: 0, y: 0, z: -40.268402}
+        tangentMode: 0
+      - time: 0.6666667
+        value: {x: 0, y: 0, z: -9.532206}
+        inSlope: {x: 0, y: 0, z: -157.45598}
+        outSlope: {x: 0, y: 0, z: -157.45598}
+        tangentMode: 0
+      - time: 0.8333333
+        value: {x: 0, y: 0, z: 6.299464}
+        inSlope: {x: 0, y: 0, z: 28.596632}
+        outSlope: {x: 0, y: 0, z: 28.596632}
+        tangentMode: 0
+      - time: 1
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: -37.79678}
+        outSlope: {x: 0, y: 0, z: -37.79678}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: FlowerBell01/FlowerBellFlower03/FlowerBellFlower01
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 30
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 74469840
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 570509865
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 3160792970
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 1651676651
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 1804966350
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 4219192401
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -21.582
+        inSlope: 40.12512
+        outSlope: 40.12512
+        tangentMode: 10
+      - time: 0.16666667
+        value: -14.894481
+        inSlope: -4.077488
+        outSlope: -4.077488
+        tangentMode: 10
+      - time: 0.4
+        value: -26.159836
+        inSlope: 11.86334
+        outSlope: 11.86334
+        tangentMode: 10
+      - time: 0.53333336
+        value: -16.558931
+        inSlope: -15.216324
+        outSlope: -15.216324
+        tangentMode: 10
+      - time: 0.6
+        value: -23.388226
+        inSlope: -41.20424
+        outSlope: -41.20424
+        tangentMode: 10
+      - time: 0.8
+        value: -19.382036
+        inSlope: 4.5155625
+        outSlope: 4.5155625
+        tangentMode: 10
+      - time: 1
+        value: -21.582
+        inSlope: -10.999824
+        outSlope: -10.999824
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: FlowerBell01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 21.582
+        inSlope: 32.64923
+        outSlope: 32.64923
+        tangentMode: 10
+      - time: 0.2
+        value: 28.111847
+        inSlope: -5.093561
+        outSlope: -5.093561
+        tangentMode: 10
+      - time: 0.46666667
+        value: 16.68882
+        inSlope: 27.374712
+        outSlope: 27.374712
+        tangentMode: 10
+      - time: 0.56666666
+        value: 26.447397
+        inSlope: -2.4268227
+        outSlope: -2.4268227
+        tangentMode: 10
+      - time: 0.6333333
+        value: 19.618103
+        inSlope: -38.728127
+        outSlope: -38.728127
+        tangentMode: 10
+      - time: 0.8
+        value: 23.781965
+        inSlope: 6.991673
+        outSlope: 6.991673
+        tangentMode: 10
+      - time: 1
+        value: 21.582
+        inSlope: -10.999824
+        outSlope: -10.999824
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: FlowerBell01/FlowerBellFlower04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 21.582
+        inSlope: 16.09356
+        outSlope: 16.09356
+        tangentMode: 10
+      - time: 0.2
+        value: 24.800713
+        inSlope: -7.16302
+        outSlope: -7.16302
+        tangentMode: 10
+      - time: 0.46666667
+        value: 16.68882
+        inSlope: 32.794724
+        outSlope: 32.794724
+        tangentMode: 10
+      - time: 0.56666666
+        value: 26.289724
+        inSlope: -4.397732
+        outSlope: -4.397732
+        tangentMode: 10
+      - time: 0.6333333
+        value: 19.302757
+        inSlope: -38.964634
+        outSlope: -38.964634
+        tangentMode: 10
+      - time: 0.8
+        value: 23.781965
+        inSlope: 7.9377103
+        outSlope: 7.9377103
+        tangentMode: 10
+      - time: 1
+        value: 21.582
+        inSlope: -10.999824
+        outSlope: -10.999824
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: FlowerBell01/FlowerBellFlower03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 42.85138
+        outSlope: 42.85138
+        tangentMode: 10
+      - time: 0.23333333
+        value: 9.998655
+        inSlope: -8.2703285
+        outSlope: -8.2703285
+        tangentMode: 10
+      - time: 0.5
+        value: -5.8392196
+        inSlope: 25.403786
+        outSlope: 25.403786
+        tangentMode: 10
+      - time: 0.6
+        value: 5.1807437
+        inSlope: -13.858135
+        outSlope: -13.858135
+        tangentMode: 10
+      - time: 0.6666667
+        value: -4.013647
+        inSlope: -45.6569
+        outSlope: -45.6569
+        tangentMode: 10
+      - time: 0.8
+        value: 2.1999636
+        inSlope: 17.801132
+        outSlope: 17.801132
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: -10.999819
+        outSlope: -10.999819
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: FlowerBell01/FlowerBellFlower03/FlowerBellFlower02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 87.16198
+        outSlope: 87.16198
+        tangentMode: 10
+      - time: 0.26666668
+        value: 23.243196
+        inSlope: -60.972355
+        outSlope: -60.972355
+        tangentMode: 10
+      - time: 0.5
+        value: -25.548359
+        inSlope: 68.62567
+        outSlope: 68.62567
+        tangentMode: 10
+      - time: 0.6333333
+        value: 20.63271
+        inSlope: -32.04274
+        outSlope: -32.04274
+        tangentMode: 10
+      - time: 0.73333335
+        value: -20.411652
+        inSlope: -26.17424
+        outSlope: -26.17424
+        tangentMode: 10
+      - time: 0.8
+        value: 3.4613485
+        inSlope: 170.39415
+        outSlope: 170.39415
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: -17.306744
+        outSlope: -17.306744
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: FlowerBell01/FlowerBellFlower03/FlowerBellFlower02/FlowerBellFlower05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 90.15332
+        outSlope: 90.15332
+        tangentMode: 10
+      - time: 0.23333333
+        value: 21.035774
+        inSlope: -22.756546
+        outSlope: -22.756546
+        tangentMode: 10
+      - time: 0.5
+        value: -15.1419325
+        inSlope: 96.849396
+        outSlope: 96.849396
+        tangentMode: 10
+      - time: 0.6
+        value: 17.794594
+        inSlope: -40.268402
+        outSlope: -40.268402
+        tangentMode: 10
+      - time: 0.6666667
+        value: -9.532206
+        inSlope: -157.45598
+        outSlope: -157.45598
+        tangentMode: 10
+      - time: 0.8333333
+        value: 6.299464
+        inSlope: 28.596632
+        outSlope: 28.596632
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: -37.79678
+        outSlope: -37.79678
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: FlowerBell01/FlowerBellFlower03/FlowerBellFlower01
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

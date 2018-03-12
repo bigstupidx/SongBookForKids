@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: 7e5b4da4649b84a86acfe9ea481c33c6
+timeCreated: 1477483693
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bear_02:back1
+    100002: Bear_02:bear
+    100004: Bear_02:bear_body1
+    100006: Bear_02:bear_elbow2
+    100008: Bear_02:bear_elbow3
+    100010: Bear_02:bear_eye1
+    100012: Bear_02:bear_eye_closed1
+    100014: Bear_02:bear_eyebrow_03
+    100016: Bear_02:bear_eyebrow_04
+    100018: Bear_02:bear_eyelid_03
+    100020: Bear_02:bear_eyelid_04
+    100022: Bear_02:bear_glow_body1
+    100024: Bear_02:bear_glow_head1
+    100026: Bear_02:bear_glow_hotdog1
+    100028: Bear_02:bear_glow_leg_left1
+    100030: Bear_02:bear_glow_leg_right1
+    100032: Bear_02:bear_glow_paw1
+    100034: Bear_02:bear_glow_paw1 1
+    100036: Bear_02:bear_glow_shoulder1
+    100038: Bear_02:bear_glow_shoulder1 1
+    100040: Bear_02:bear_head1
+    100042: Bear_02:bear_hotdog1
+    100044: Bear_02:bear_hotdog_stick1
+    100046: Bear_02:bear_leg1
+    100048: Bear_02:bear_leg2
+    100050: Bear_02:bear_logs_03
+    100052: Bear_02:bear_logs_04
+    100054: Bear_02:bear_mouth_ah1
+    100056: Bear_02:bear_mouth_oh1
+    100058: Bear_02:bear_mouth_smile_03
+    100060: Bear_02:bear_mouth_smile_04
+    100062: Bear_02:bear_mouth_snore_02
+    100064: Bear_02:bear_mouth_teeth1
+    100066: Bear_02:bear_paw2
+    100068: Bear_02:bear_paw3
+    100070: Bear_02:bear_pupils1
+    100072: Bear_02:bear_shoulder2
+    100074: Bear_02:bear_shoulder3
+    100076: Bear_02:ikHandle1
+    100078: Bear_02:ikHandle2
+    100080: Bear_02:joint1
+    100082: Bear_02:joint2
+    100084: Bear_02:joint2 1
+    100086: Bear_02:joint3
+    100088: Bear_02:joint3 1
+    100090: Bear_02:joint4
+    100092: Bear_02:main
+    100094: Bear_02:paw_left
+    100096: Bear_02:paw_right
+    100098: //RootNode
+    400000: Bear_02:back1
+    400002: Bear_02:bear
+    400004: Bear_02:bear_body1
+    400006: Bear_02:bear_elbow2
+    400008: Bear_02:bear_elbow3
+    400010: Bear_02:bear_eye1
+    400012: Bear_02:bear_eye_closed1
+    400014: Bear_02:bear_eyebrow_03
+    400016: Bear_02:bear_eyebrow_04
+    400018: Bear_02:bear_eyelid_03
+    400020: Bear_02:bear_eyelid_04
+    400022: Bear_02:bear_glow_body1
+    400024: Bear_02:bear_glow_head1
+    400026: Bear_02:bear_glow_hotdog1
+    400028: Bear_02:bear_glow_leg_left1
+    400030: Bear_02:bear_glow_leg_right1
+    400032: Bear_02:bear_glow_paw1
+    400034: Bear_02:bear_glow_paw1 1
+    400036: Bear_02:bear_glow_shoulder1
+    400038: Bear_02:bear_glow_shoulder1 1
+    400040: Bear_02:bear_head1
+    400042: Bear_02:bear_hotdog1
+    400044: Bear_02:bear_hotdog_stick1
+    400046: Bear_02:bear_leg1
+    400048: Bear_02:bear_leg2
+    400050: Bear_02:bear_logs_03
+    400052: Bear_02:bear_logs_04
+    400054: Bear_02:bear_mouth_ah1
+    400056: Bear_02:bear_mouth_oh1
+    400058: Bear_02:bear_mouth_smile_03
+    400060: Bear_02:bear_mouth_smile_04
+    400062: Bear_02:bear_mouth_snore_02
+    400064: Bear_02:bear_mouth_teeth1
+    400066: Bear_02:bear_paw2
+    400068: Bear_02:bear_paw3
+    400070: Bear_02:bear_pupils1
+    400072: Bear_02:bear_shoulder2
+    400074: Bear_02:bear_shoulder3
+    400076: Bear_02:ikHandle1
+    400078: Bear_02:ikHandle2
+    400080: Bear_02:joint1
+    400082: Bear_02:joint2
+    400084: Bear_02:joint2 1
+    400086: Bear_02:joint3
+    400088: Bear_02:joint3 1
+    400090: Bear_02:joint4
+    400092: Bear_02:main
+    400094: Bear_02:paw_left
+    400096: Bear_02:paw_right
+    400098: //RootNode
+    2300000: Bear_02:bear_body1
+    2300002: Bear_02:bear_elbow2
+    2300004: Bear_02:bear_elbow3
+    2300006: Bear_02:bear_eye1
+    2300008: Bear_02:bear_eye_closed1
+    2300010: Bear_02:bear_eyebrow_03
+    2300012: Bear_02:bear_eyebrow_04
+    2300014: Bear_02:bear_eyelid_03
+    2300016: Bear_02:bear_eyelid_04
+    2300018: Bear_02:bear_glow_body1
+    2300020: Bear_02:bear_glow_head1
+    2300022: Bear_02:bear_glow_hotdog1
+    2300024: Bear_02:bear_glow_leg_left1
+    2300026: Bear_02:bear_glow_leg_right1
+    2300028: Bear_02:bear_glow_paw1
+    2300030: Bear_02:bear_glow_paw1 1
+    2300032: Bear_02:bear_glow_shoulder1
+    2300034: Bear_02:bear_glow_shoulder1 1
+    2300036: Bear_02:bear_head1
+    2300038: Bear_02:bear_hotdog1
+    2300040: Bear_02:bear_hotdog_stick1
+    2300042: Bear_02:bear_leg1
+    2300044: Bear_02:bear_leg2
+    2300046: Bear_02:bear_logs_03
+    2300048: Bear_02:bear_logs_04
+    2300050: Bear_02:bear_mouth_ah1
+    2300052: Bear_02:bear_mouth_oh1
+    2300054: Bear_02:bear_mouth_smile_03
+    2300056: Bear_02:bear_mouth_smile_04
+    2300058: Bear_02:bear_mouth_snore_02
+    2300060: Bear_02:bear_mouth_teeth1
+    2300062: Bear_02:bear_paw2
+    2300064: Bear_02:bear_paw3
+    2300066: Bear_02:bear_pupils1
+    2300068: Bear_02:bear_shoulder2
+    2300070: Bear_02:bear_shoulder3
+    3300000: Bear_02:bear_body1
+    3300002: Bear_02:bear_elbow2
+    3300004: Bear_02:bear_elbow3
+    3300006: Bear_02:bear_eye1
+    3300008: Bear_02:bear_eye_closed1
+    3300010: Bear_02:bear_eyebrow_03
+    3300012: Bear_02:bear_eyebrow_04
+    3300014: Bear_02:bear_eyelid_03
+    3300016: Bear_02:bear_eyelid_04
+    3300018: Bear_02:bear_glow_body1
+    3300020: Bear_02:bear_glow_head1
+    3300022: Bear_02:bear_glow_hotdog1
+    3300024: Bear_02:bear_glow_leg_left1
+    3300026: Bear_02:bear_glow_leg_right1
+    3300028: Bear_02:bear_glow_paw1
+    3300030: Bear_02:bear_glow_paw1 1
+    3300032: Bear_02:bear_glow_shoulder1
+    3300034: Bear_02:bear_glow_shoulder1 1
+    3300036: Bear_02:bear_head1
+    3300038: Bear_02:bear_hotdog1
+    3300040: Bear_02:bear_hotdog_stick1
+    3300042: Bear_02:bear_leg1
+    3300044: Bear_02:bear_leg2
+    3300046: Bear_02:bear_logs_03
+    3300048: Bear_02:bear_logs_04
+    3300050: Bear_02:bear_mouth_ah1
+    3300052: Bear_02:bear_mouth_oh1
+    3300054: Bear_02:bear_mouth_smile_03
+    3300056: Bear_02:bear_mouth_smile_04
+    3300058: Bear_02:bear_mouth_snore_02
+    3300060: Bear_02:bear_mouth_teeth1
+    3300062: Bear_02:bear_paw2
+    3300064: Bear_02:bear_paw3
+    3300066: Bear_02:bear_pupils1
+    3300068: Bear_02:bear_shoulder2
+    3300070: Bear_02:bear_shoulder3
+    4300000: Bear_02:bear_logs_03
+    4300002: Bear_02:bear_logs_04
+    4300004: Bear_02:bear_leg1
+    4300006: Bear_02:bear_glow_leg_right1
+    4300008: Bear_02:bear_leg2
+    4300010: Bear_02:bear_glow_leg_left1
+    4300012: Bear_02:bear_paw3
+    4300014: Bear_02:bear_glow_paw1
+    4300016: Bear_02:bear_paw2
+    4300018: Bear_02:bear_glow_paw1
+    4300020: Bear_02:bear_hotdog_stick1
+    4300022: Bear_02:bear_hotdog1
+    4300024: Bear_02:bear_glow_hotdog1
+    4300026: Bear_02:bear_body1
+    4300028: Bear_02:bear_glow_body1
+    4300030: Bear_02:bear_elbow2
+    4300032: Bear_02:bear_shoulder2
+    4300034: Bear_02:bear_glow_shoulder1
+    4300036: Bear_02:bear_elbow3
+    4300038: Bear_02:bear_shoulder3
+    4300040: Bear_02:bear_glow_shoulder1
+    4300042: Bear_02:bear_head1
+    4300044: Bear_02:bear_mouth_smile_04
+    4300046: Bear_02:bear_mouth_snore_02
+    4300048: Bear_02:bear_mouth_teeth1
+    4300050: Bear_02:bear_eye1
+    4300052: Bear_02:bear_eye_closed1
+    4300054: Bear_02:bear_eyebrow_03
+    4300056: Bear_02:bear_eyebrow_04
+    4300058: Bear_02:bear_eyelid_03
+    4300060: Bear_02:bear_eyelid_04
+    4300062: Bear_02:bear_glow_head1
+    4300064: Bear_02:bear_pupils1
+    4300066: Bear_02:bear_mouth_smile_03
+    4300068: Bear_02:bear_mouth_oh1
+    4300070: Bear_02:bear_mouth_ah1
+    7400000: idle
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bear_02:back1
+        weight: 1
+      - path: Bear_02:bear
+        weight: 1
+      - path: Bear_02:bear/Bear_02:bear_leg1
+        weight: 1
+      - path: Bear_02:bear/Bear_02:bear_leg1/Bear_02:bear_glow_leg_right1
+        weight: 1
+      - path: Bear_02:bear/Bear_02:bear_leg2
+        weight: 1
+      - path: Bear_02:bear/Bear_02:bear_leg2/Bear_02:bear_glow_leg_left1
+        weight: 1
+      - path: Bear_02:bear/Bear_02:main
+        weight: 1
+      - path: Bear_02:bear/Bear_02:main/Bear_02:bear_body1
+        weight: 1
+      - path: Bear_02:bear/Bear_02:main/Bear_02:bear_body1/Bear_02:bear_glow_body1
+        weight: 1
+      - path: Bear_02:bear/Bear_02:main/Bear_02:bear_body1/Bear_02:joint1
+        weight: 1
+      - path: Bear_02:bear/Bear_02:main/Bear_02:bear_body1/Bear_02:joint1/Bear_02:bear_shoulder3
+        weight: 1
+      - path: Bear_02:bear/Bear_02:main/Bear_02:bear_body1/Bear_02:joint1/Bear_02:bear_shoulder3/Bear_02:bear_glow_shoulder1
+        weight: 1
+      - path: Bear_02:bear/Bear_02:main/Bear_02:bear_body1/Bear_02:joint1/Bear_02:joint2
+        weight: 1
+      - path: Bear_02:bear/Bear_02:main/Bear_02:bear_body1/Bear_02:joint1/Bear_02:joint2/Bear_02:bear_elbow3
+        weight: 1
+      - path: Bear_02:bear/Bear_02:main/Bear_02:bear_body1/Bear_02:joint1/Bear_02:joint2/Bear_02:joint3
+        weight: 1
+      - path: Bear_02:bear/Bear_02:main/Bear_02:bear_body1/Bear_02:joint4
+        weight: 1
+      - path: Bear_02:bear/Bear_02:main/Bear_02:bear_body1/Bear_02:joint4/Bear_02:bear_shoulder2
+        weight: 1
+      - path: Bear_02:bear/Bear_02:main/Bear_02:bear_body1/Bear_02:joint4/Bear_02:bear_shoulder2/Bear_02:bear_glow_shoulder1
+          1
+        weight: 1
+      - path: Bear_02:bear/Bear_02:main/Bear_02:bear_body1/Bear_02:joint4/Bear_02:joint2
+          1
+        weight: 1
+      - path: Bear_02:bear/Bear_02:main/Bear_02:bear_body1/Bear_02:joint4/Bear_02:joint2
+          1/Bear_02:bear_elbow2
+        weight: 1
+      - path: Bear_02:bear/Bear_02:main/Bear_02:bear_body1/Bear_02:joint4/Bear_02:joint2
+          1/Bear_02:joint3 1
+        weight: 1
+      - path: Bear_02:bear/Bear_02:main/Bear_02:bear_head1
+        weight: 1
+      - path: Bear_02:bear/Bear_02:main/Bear_02:bear_head1/Bear_02:bear_eye1
+        weight: 1
+      - path: Bear_02:bear/Bear_02:main/Bear_02:bear_head1/Bear_02:bear_eye_closed1
+        weight: 1
+      - path: Bear_02:bear/Bear_02:main/Bear_02:bear_head1/Bear_02:bear_eyebrow_03
+        weight: 1
+      - path: Bear_02:bear/Bear_02:main/Bear_02:bear_head1/Bear_02:bear_eyebrow_04
+        weight: 1
+      - path: Bear_02:bear/Bear_02:main/Bear_02:bear_head1/Bear_02:bear_eyelid_03
+        weight: 1
+      - path: Bear_02:bear/Bear_02:main/Bear_02:bear_head1/Bear_02:bear_eyelid_04
+        weight: 1
+      - path: Bear_02:bear/Bear_02:main/Bear_02:bear_head1/Bear_02:bear_glow_head1
+        weight: 1
+      - path: Bear_02:bear/Bear_02:main/Bear_02:bear_head1/Bear_02:bear_mouth_ah1
+        weight: 1
+      - path: Bear_02:bear/Bear_02:main/Bear_02:bear_head1/Bear_02:bear_mouth_oh1
+        weight: 1
+      - path: Bear_02:bear/Bear_02:main/Bear_02:bear_head1/Bear_02:bear_mouth_smile_03
+        weight: 1
+      - path: Bear_02:bear/Bear_02:main/Bear_02:bear_head1/Bear_02:bear_mouth_smile_04
+        weight: 1
+      - path: Bear_02:bear/Bear_02:main/Bear_02:bear_head1/Bear_02:bear_mouth_snore_02
+        weight: 1
+      - path: Bear_02:bear/Bear_02:main/Bear_02:bear_head1/Bear_02:bear_mouth_teeth1
+        weight: 1
+      - path: Bear_02:bear/Bear_02:main/Bear_02:bear_head1/Bear_02:bear_pupils1
+        weight: 1
+      - path: Bear_02:bear/Bear_02:paw_left
+        weight: 1
+      - path: Bear_02:bear/Bear_02:paw_left/Bear_02:bear_paw3
+        weight: 1
+      - path: Bear_02:bear/Bear_02:paw_left/Bear_02:bear_paw3/Bear_02:bear_glow_paw1
+        weight: 1
+      - path: Bear_02:bear/Bear_02:paw_left/Bear_02:ikHandle1
+        weight: 1
+      - path: Bear_02:bear/Bear_02:paw_right
+        weight: 1
+      - path: Bear_02:bear/Bear_02:paw_right/Bear_02:bear_paw2
+        weight: 1
+      - path: Bear_02:bear/Bear_02:paw_right/Bear_02:bear_paw2/Bear_02:bear_glow_paw1
+          1
+        weight: 1
+      - path: Bear_02:bear/Bear_02:paw_right/Bear_02:bear_paw2/Bear_02:bear_hotdog_stick1
+        weight: 1
+      - path: Bear_02:bear/Bear_02:paw_right/Bear_02:bear_paw2/Bear_02:bear_hotdog_stick1/Bear_02:bear_hotdog1
+        weight: 1
+      - path: Bear_02:bear/Bear_02:paw_right/Bear_02:bear_paw2/Bear_02:bear_hotdog_stick1/Bear_02:bear_hotdog1/Bear_02:bear_glow_hotdog1
+        weight: 1
+      - path: Bear_02:bear/Bear_02:paw_right/Bear_02:ikHandle2
+        weight: 1
+      - path: Bear_02:bear_logs_03
+        weight: 1
+      - path: Bear_02:bear_logs_04
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,530 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ElderSpin
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 85.469}
+        inSlope: {x: 0, y: 0, z: -63.625793}
+        outSlope: {x: 0, y: 0, z: -63.625793}
+        tangentMode: 0
+      - time: 0.6666667
+        value: {x: 0, y: 0, z: -288.97864}
+        inSlope: {x: 0, y: 0, z: -237.68452}
+        outSlope: {x: 0, y: 0, z: -237.68452}
+        tangentMode: 0
+      - time: 0.8333333
+        value: {x: 0, y: 0, z: -274.5949}
+        inSlope: {x: 0, y: 0, z: 186.20004}
+        outSlope: {x: 0, y: 0, z: 186.20004}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: 01_flower_elder_bud_02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.06666667
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: -42.58438}
+        outSlope: {x: 0, y: 0, z: -42.58438}
+        tangentMode: 0
+      - time: 0.76666665
+        value: {x: 0, y: 0, z: -374.44763}
+        inSlope: {x: 0, y: 0, z: -224.3114}
+        outSlope: {x: 0, y: 0, z: -224.3114}
+        tangentMode: 0
+      - time: 0.93333334
+        value: {x: 0, y: 0, z: -360.0639}
+        inSlope: {x: 0, y: 0, z: 200.69414}
+        outSlope: {x: 0, y: 0, z: 200.69414}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: 02_flower_elder_bud_01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.16666667
+        value: {x: 0, y: 0, z: -126.795006}
+        inSlope: {x: 0, y: 0, z: -108.8605}
+        outSlope: {x: 0, y: 0, z: -108.8605}
+        tangentMode: 0
+      - time: 0.8333333
+        value: {x: 0, y: 0, z: -501.24265}
+        inSlope: {x: 0, y: 0, z: -237.68457}
+        outSlope: {x: 0, y: 0, z: -237.68457}
+        tangentMode: 0
+      - time: 1
+        value: {x: 0, y: 0, z: -486.85892}
+        inSlope: {x: 0, y: 0, z: 222.10721}
+        outSlope: {x: 0, y: 0, z: 222.10721}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: 03_flower_elder_bud_03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.23333333
+        value: {x: 0, y: 0, z: -227.59799}
+        inSlope: {x: 0, y: 0, z: -126.04563}
+        outSlope: {x: 0, y: 0, z: -126.04563}
+        tangentMode: 0
+      - time: 0.9
+        value: {x: 0, y: 0, z: -602.04565}
+        inSlope: {x: 0, y: 0, z: -237.6844}
+        outSlope: {x: 0, y: 0, z: -237.6844}
+        tangentMode: 0
+      - time: 1.0666667
+        value: {x: 0, y: 0, z: -587.66187}
+        inSlope: {x: 0, y: 0, z: 224.74283}
+        outSlope: {x: 0, y: 0, z: 224.74283}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: 04_flower_elder_bud_01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.26666668
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: -26.081457}
+        outSlope: {x: 0, y: 0, z: -26.081457}
+        tangentMode: 0
+      - time: 0.93333334
+        value: {x: 0, y: 0, z: -374.44763}
+        inSlope: {x: 0, y: 0, z: -237.68457}
+        outSlope: {x: 0, y: 0, z: -237.68457}
+        tangentMode: 0
+      - time: 1.1
+        value: {x: 0, y: 0, z: -360.0639}
+        inSlope: {x: 0, y: 0, z: 233.87946}
+        outSlope: {x: 0, y: 0, z: 233.87946}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: 05_flower_elder_bud_02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.3
+        value: {x: 0, y: 0, z: -96.936005}
+        inSlope: {x: 0, y: 0, z: -68.03538}
+        outSlope: {x: 0, y: 0, z: -68.03538}
+        tangentMode: 0
+      - time: 1
+        value: {x: 0, y: 0, z: -471.38364}
+        inSlope: {x: 0, y: 0, z: -224.31139}
+        outSlope: {x: 0, y: 0, z: -224.31139}
+        tangentMode: 0
+      - time: 1.1666666
+        value: {x: 0, y: 0, z: -456.9999}
+        inSlope: {x: 0, y: 0, z: 142.07335}
+        outSlope: {x: 0, y: 0, z: 142.07335}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: 06_flower_elder_bud_01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.36666667
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: -26.613731}
+        outSlope: {x: 0, y: 0, z: -26.613731}
+        tangentMode: 0
+      - time: 1.0333333
+        value: {x: 0, y: 0, z: -374.44763}
+        inSlope: {x: 0, y: 0, z: -237.68459}
+        outSlope: {x: 0, y: 0, z: -237.68459}
+        tangentMode: 0
+      - time: 1.2
+        value: {x: 0, y: 0, z: -360.0639}
+        inSlope: {x: 0, y: 0, z: 217.28693}
+        outSlope: {x: 0, y: 0, z: 217.28693}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: 07_flower_elder_bud_03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.43333334
+        value: {x: 0, y: 0, z: 233.59799}
+        inSlope: {x: 0, y: 0, z: -91.68245}
+        outSlope: {x: 0, y: 0, z: -91.68245}
+        tangentMode: 0
+      - time: 1.1333333
+        value: {x: 0, y: 0, z: -140.84964}
+        inSlope: {x: 0, y: 0, z: -224.31139}
+        outSlope: {x: 0, y: 0, z: -224.31139}
+        tangentMode: 0
+      - time: 1.3
+        value: {x: 0, y: 0, z: -126.46591}
+        inSlope: {x: 0, y: 0, z: 207.65587}
+        outSlope: {x: 0, y: 0, z: 207.65587}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: 08_flower_elder_bud_02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.53333336
+        value: {x: 0, y: 0, z: -169.84401}
+        inSlope: {x: 0, y: 0, z: -125.99936}
+        outSlope: {x: 0, y: 0, z: -125.99936}
+        tangentMode: 0
+      - time: 1.2
+        value: {x: 0, y: 0, z: -544.29175}
+        inSlope: {x: 0, y: 0, z: -237.68443}
+        outSlope: {x: 0, y: 0, z: -237.68443}
+        tangentMode: 0
+      - time: 1.3666667
+        value: {x: 0, y: 0, z: -529.90796}
+        inSlope: {x: 0, y: 0, z: 224.6949}
+        outSlope: {x: 0, y: 0, z: 224.6949}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: 09_flower_elder_bud_01
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 30
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 47847469
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 3771583348
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 2434345414
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 384880306
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 270736534
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 4063547343
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 2212507005
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 3102905029
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 3189850337
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1.3666667
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 85.469
+        inSlope: -63.625793
+        outSlope: -63.625793
+        tangentMode: 0
+      - time: 0.6666667
+        value: -288.97864
+        inSlope: -237.68452
+        outSlope: -237.68452
+        tangentMode: 10
+      - time: 0.8333333
+        value: -274.5949
+        inSlope: 186.20004
+        outSlope: 186.20004
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: 01_flower_elder_bud_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.06666667
+        value: 0
+        inSlope: -42.58438
+        outSlope: -42.58438
+        tangentMode: 0
+      - time: 0.76666665
+        value: -374.44763
+        inSlope: -224.3114
+        outSlope: -224.3114
+        tangentMode: 10
+      - time: 0.93333334
+        value: -360.0639
+        inSlope: 200.69414
+        outSlope: 200.69414
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: 02_flower_elder_bud_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.16666667
+        value: -126.795006
+        inSlope: -108.8605
+        outSlope: -108.8605
+        tangentMode: 0
+      - time: 0.8333333
+        value: -501.24265
+        inSlope: -237.68457
+        outSlope: -237.68457
+        tangentMode: 10
+      - time: 1
+        value: -486.85892
+        inSlope: 222.10721
+        outSlope: 222.10721
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: 03_flower_elder_bud_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.23333333
+        value: -227.59799
+        inSlope: -126.04563
+        outSlope: -126.04563
+        tangentMode: 0
+      - time: 0.9
+        value: -602.04565
+        inSlope: -237.6844
+        outSlope: -237.6844
+        tangentMode: 10
+      - time: 1.0666667
+        value: -587.66187
+        inSlope: 224.74283
+        outSlope: 224.74283
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: 04_flower_elder_bud_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.26666668
+        value: 0
+        inSlope: -26.081457
+        outSlope: -26.081457
+        tangentMode: 0
+      - time: 0.93333334
+        value: -374.44763
+        inSlope: -237.68457
+        outSlope: -237.68457
+        tangentMode: 10
+      - time: 1.1
+        value: -360.0639
+        inSlope: 233.87946
+        outSlope: 233.87946
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: 05_flower_elder_bud_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.3
+        value: -96.936005
+        inSlope: -68.03538
+        outSlope: -68.03538
+        tangentMode: 0
+      - time: 1
+        value: -471.38364
+        inSlope: -224.31139
+        outSlope: -224.31139
+        tangentMode: 10
+      - time: 1.1666666
+        value: -456.9999
+        inSlope: 142.07335
+        outSlope: 142.07335
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: 06_flower_elder_bud_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.36666667
+        value: 0
+        inSlope: -26.613731
+        outSlope: -26.613731
+        tangentMode: 0
+      - time: 1.0333333
+        value: -374.44763
+        inSlope: -237.68459
+        outSlope: -237.68459
+        tangentMode: 10
+      - time: 1.2
+        value: -360.0639
+        inSlope: 217.28693
+        outSlope: 217.28693
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: 07_flower_elder_bud_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.43333334
+        value: 233.59799
+        inSlope: -91.68245
+        outSlope: -91.68245
+        tangentMode: 0
+      - time: 1.1333333
+        value: -140.84964
+        inSlope: -224.31139
+        outSlope: -224.31139
+        tangentMode: 10
+      - time: 1.3
+        value: -126.46591
+        inSlope: 207.65587
+        outSlope: 207.65587
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: 08_flower_elder_bud_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.53333336
+        value: -169.84401
+        inSlope: -125.99936
+        outSlope: -125.99936
+        tangentMode: 0
+      - time: 1.2
+        value: -544.29175
+        inSlope: -237.68443
+        outSlope: -237.68443
+        tangentMode: 10
+      - time: 1.3666667
+        value: -529.90796
+        inSlope: 224.6949
+        outSlope: 224.6949
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: 09_flower_elder_bud_01
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

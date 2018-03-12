@@ -1,0 +1,755 @@
+fileFormatVersion: 2
+guid: c67250a1a9bc6426c85a2adbaa67a05c
+timeCreated: 1479993926
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: LittleFox_reference_02:back
+    100004: LittleFox_reference_02:back 1
+    100006: LittleFox_reference_02:back5
+    100008: LittleFox_reference_02:body
+    100010: LittleFox_reference_02:body 1
+    100012: LittleFox_reference_02:branch
+    100014: LittleFox_reference_02:fox_brows_1:fox_brows_1
+    100016: LittleFox_reference_02:fox_brows_2:fox_brows_2
+    100018: LittleFox_reference_02:fox_brows_5
+    100020: LittleFox_reference_02:fox_brows_6
+    100022: LittleFox_reference_02:fox_clap_left1
+    100024: LittleFox_reference_02:fox_clap_left:fox_clap_left
+    100026: LittleFox_reference_02:fox_clap_right1
+    100028: LittleFox_reference_02:fox_clap_right:fox_clap_right
+    100030: LittleFox_reference_02:fox_elbow1
+    100032: LittleFox_reference_02:fox_elbow1 1
+    100034: LittleFox_reference_02:fox_elbow2
+    100036: LittleFox_reference_02:fox_elbow2 1
+    100038: LittleFox_reference_02:fox_foot1
+    100040: LittleFox_reference_02:fox_foot2
+    100042: LittleFox_reference_02:fox_head2
+    100044: LittleFox_reference_02:fox_head:fox_head
+    100046: LittleFox_reference_02:fox_hip2
+    100048: LittleFox_reference_02:fox_hip:fox_hip
+    100050: LittleFox_reference_02:fox_knee1
+    100052: LittleFox_reference_02:fox_knee2
+    100054: LittleFox_reference_02:fox_lids_1:fox_lids_1
+    100056: LittleFox_reference_02:fox_lids_2:fox_lids_2
+    100058: LittleFox_reference_02:fox_lids_5
+    100060: LittleFox_reference_02:fox_lids_6
+    100062: LittleFox_reference_02:fox_mouth_A2
+    100064: LittleFox_reference_02:fox_mouth_A:fox_mouth_A
+    100066: LittleFox_reference_02:fox_mouth_E2
+    100068: LittleFox_reference_02:fox_mouth_E:fox_mouth_E
+    100070: LittleFox_reference_02:fox_mouth_I2
+    100072: LittleFox_reference_02:fox_mouth_I:fox_mouth_I
+    100074: LittleFox_reference_02:fox_mouth_O2
+    100076: LittleFox_reference_02:fox_mouth_O:fox_mouth_O
+    100078: LittleFox_reference_02:fox_pupils2
+    100080: LittleFox_reference_02:fox_pupils:fox_pupils
+    100082: LittleFox_reference_02:fox_shoulder1
+    100084: LittleFox_reference_02:fox_shoulder1 1
+    100086: LittleFox_reference_02:fox_shoulder2
+    100088: LittleFox_reference_02:fox_shoulder2 1
+    100090: LittleFox_reference_02:fox_socks_foot1
+    100092: LittleFox_reference_02:fox_socks_foot:fox_socks_foot
+    100094: LittleFox_reference_02:fox_socks_knee1
+    100096: LittleFox_reference_02:fox_socks_knee:fox_socks_knee
+    100098: LittleFox_reference_02:fox_tail_11
+    100100: LittleFox_reference_02:fox_tail_12
+    100102: LittleFox_reference_02:fox_tail_13
+    100104: LittleFox_reference_02:fox_tail_14
+    100106: LittleFox_reference_02:fox_tail_15
+    100108: LittleFox_reference_02:fox_tail_1:fox_tail_1
+    100110: LittleFox_reference_02:fox_tail_2:fox_tail_2
+    100112: LittleFox_reference_02:fox_tail_3:fox_tail_3
+    100114: LittleFox_reference_02:fox_tail_4:fox_tail_4
+    100116: LittleFox_reference_02:fox_tail_5:fox_tail_5
+    100118: LittleFox_reference_02:fox_tigh1
+    100120: LittleFox_reference_02:fox_tigh1 1
+    100122: LittleFox_reference_02:fox_tigh2
+    100124: LittleFox_reference_02:fox_tigh2 1
+    100126: LittleFox_reference_02:fox_torso2
+    100128: LittleFox_reference_02:fox_torso:fox_torso
+    100130: LittleFox_reference_02:FoxMain
+    100132: LittleFox_reference_02:FoxMain1
+    100134: LittleFox_reference_02:hand1
+    100136: LittleFox_reference_02:hand1 1
+    100138: LittleFox_reference_02:hand2
+    100140: LittleFox_reference_02:hand2 1
+    100142: LittleFox_reference_02:ikHandle3
+    100144: LittleFox_reference_02:ikHandle3 1
+    100146: LittleFox_reference_02:ikHandle4
+    100148: LittleFox_reference_02:ikHandle4 1
+    100150: LittleFox_reference_02:ikHandle7
+    100152: LittleFox_reference_02:ikHandle8
+    100154: LittleFox_reference_02:joint10
+    100156: LittleFox_reference_02:joint10 1
+    100158: LittleFox_reference_02:joint11
+    100160: LittleFox_reference_02:joint11 1
+    100162: LittleFox_reference_02:joint12
+    100164: LittleFox_reference_02:joint12 1
+    100166: LittleFox_reference_02:joint13
+    100168: LittleFox_reference_02:joint13 1
+    100170: LittleFox_reference_02:joint14
+    100172: LittleFox_reference_02:joint14 1
+    100174: LittleFox_reference_02:joint15
+    100176: LittleFox_reference_02:joint15 1
+    100178: LittleFox_reference_02:nurbsCircle1
+    100180: LittleFox_reference_02:nurbsCircle1 1
+    100182: LittleFox_reference_02:tail_Rotate2
+    100184: LittleFox_reference_02:tail_Rotate2 1
+    100186: LittleFox_reference_02:tail_Rotate3
+    100188: LittleFox_reference_02:tail_Rotate3 1
+    100190: LittleFox_reference_02:tail_Rotate4
+    100192: LittleFox_reference_02:tail_Rotate4 1
+    100194: LittleFox_reference_02:tail_Rotate5
+    100196: LittleFox_reference_02:tail_Rotate5 1
+    100198: LittleFox_reference_02:tail_RotateMain
+    100200: LittleFox_reference_02:tail_RotateMain 1
+    100202: LittleFox_reference_02:TreeBigBranch04:TreeBigBranch04
+    100204: LittleFox_reference_02:TreeBigBranch04Branch02:TreeBigBranch04Branch02
+    100206: LittleFox_reference_02:TreeBigBranch04Branch04:TreeBigBranch04Branch01
+    400000: //RootNode
+    400002: LittleFox_reference_02:back
+    400004: LittleFox_reference_02:back 1
+    400006: LittleFox_reference_02:back5
+    400008: LittleFox_reference_02:body
+    400010: LittleFox_reference_02:body 1
+    400012: LittleFox_reference_02:branch
+    400014: LittleFox_reference_02:fox_brows_1:fox_brows_1
+    400016: LittleFox_reference_02:fox_brows_2:fox_brows_2
+    400018: LittleFox_reference_02:fox_brows_5
+    400020: LittleFox_reference_02:fox_brows_6
+    400022: LittleFox_reference_02:fox_clap_left1
+    400024: LittleFox_reference_02:fox_clap_left:fox_clap_left
+    400026: LittleFox_reference_02:fox_clap_right1
+    400028: LittleFox_reference_02:fox_clap_right:fox_clap_right
+    400030: LittleFox_reference_02:fox_elbow1
+    400032: LittleFox_reference_02:fox_elbow1 1
+    400034: LittleFox_reference_02:fox_elbow2
+    400036: LittleFox_reference_02:fox_elbow2 1
+    400038: LittleFox_reference_02:fox_foot1
+    400040: LittleFox_reference_02:fox_foot2
+    400042: LittleFox_reference_02:fox_head2
+    400044: LittleFox_reference_02:fox_head:fox_head
+    400046: LittleFox_reference_02:fox_hip2
+    400048: LittleFox_reference_02:fox_hip:fox_hip
+    400050: LittleFox_reference_02:fox_knee1
+    400052: LittleFox_reference_02:fox_knee2
+    400054: LittleFox_reference_02:fox_lids_1:fox_lids_1
+    400056: LittleFox_reference_02:fox_lids_2:fox_lids_2
+    400058: LittleFox_reference_02:fox_lids_5
+    400060: LittleFox_reference_02:fox_lids_6
+    400062: LittleFox_reference_02:fox_mouth_A2
+    400064: LittleFox_reference_02:fox_mouth_A:fox_mouth_A
+    400066: LittleFox_reference_02:fox_mouth_E2
+    400068: LittleFox_reference_02:fox_mouth_E:fox_mouth_E
+    400070: LittleFox_reference_02:fox_mouth_I2
+    400072: LittleFox_reference_02:fox_mouth_I:fox_mouth_I
+    400074: LittleFox_reference_02:fox_mouth_O2
+    400076: LittleFox_reference_02:fox_mouth_O:fox_mouth_O
+    400078: LittleFox_reference_02:fox_pupils2
+    400080: LittleFox_reference_02:fox_pupils:fox_pupils
+    400082: LittleFox_reference_02:fox_shoulder1
+    400084: LittleFox_reference_02:fox_shoulder1 1
+    400086: LittleFox_reference_02:fox_shoulder2
+    400088: LittleFox_reference_02:fox_shoulder2 1
+    400090: LittleFox_reference_02:fox_socks_foot1
+    400092: LittleFox_reference_02:fox_socks_foot:fox_socks_foot
+    400094: LittleFox_reference_02:fox_socks_knee1
+    400096: LittleFox_reference_02:fox_socks_knee:fox_socks_knee
+    400098: LittleFox_reference_02:fox_tail_11
+    400100: LittleFox_reference_02:fox_tail_12
+    400102: LittleFox_reference_02:fox_tail_13
+    400104: LittleFox_reference_02:fox_tail_14
+    400106: LittleFox_reference_02:fox_tail_15
+    400108: LittleFox_reference_02:fox_tail_1:fox_tail_1
+    400110: LittleFox_reference_02:fox_tail_2:fox_tail_2
+    400112: LittleFox_reference_02:fox_tail_3:fox_tail_3
+    400114: LittleFox_reference_02:fox_tail_4:fox_tail_4
+    400116: LittleFox_reference_02:fox_tail_5:fox_tail_5
+    400118: LittleFox_reference_02:fox_tigh1
+    400120: LittleFox_reference_02:fox_tigh1 1
+    400122: LittleFox_reference_02:fox_tigh2
+    400124: LittleFox_reference_02:fox_tigh2 1
+    400126: LittleFox_reference_02:fox_torso2
+    400128: LittleFox_reference_02:fox_torso:fox_torso
+    400130: LittleFox_reference_02:FoxMain
+    400132: LittleFox_reference_02:FoxMain1
+    400134: LittleFox_reference_02:hand1
+    400136: LittleFox_reference_02:hand1 1
+    400138: LittleFox_reference_02:hand2
+    400140: LittleFox_reference_02:hand2 1
+    400142: LittleFox_reference_02:ikHandle3
+    400144: LittleFox_reference_02:ikHandle3 1
+    400146: LittleFox_reference_02:ikHandle4
+    400148: LittleFox_reference_02:ikHandle4 1
+    400150: LittleFox_reference_02:ikHandle7
+    400152: LittleFox_reference_02:ikHandle8
+    400154: LittleFox_reference_02:joint10
+    400156: LittleFox_reference_02:joint10 1
+    400158: LittleFox_reference_02:joint11
+    400160: LittleFox_reference_02:joint11 1
+    400162: LittleFox_reference_02:joint12
+    400164: LittleFox_reference_02:joint12 1
+    400166: LittleFox_reference_02:joint13
+    400168: LittleFox_reference_02:joint13 1
+    400170: LittleFox_reference_02:joint14
+    400172: LittleFox_reference_02:joint14 1
+    400174: LittleFox_reference_02:joint15
+    400176: LittleFox_reference_02:joint15 1
+    400178: LittleFox_reference_02:nurbsCircle1
+    400180: LittleFox_reference_02:nurbsCircle1 1
+    400182: LittleFox_reference_02:tail_Rotate2
+    400184: LittleFox_reference_02:tail_Rotate2 1
+    400186: LittleFox_reference_02:tail_Rotate3
+    400188: LittleFox_reference_02:tail_Rotate3 1
+    400190: LittleFox_reference_02:tail_Rotate4
+    400192: LittleFox_reference_02:tail_Rotate4 1
+    400194: LittleFox_reference_02:tail_Rotate5
+    400196: LittleFox_reference_02:tail_Rotate5 1
+    400198: LittleFox_reference_02:tail_RotateMain
+    400200: LittleFox_reference_02:tail_RotateMain 1
+    400202: LittleFox_reference_02:TreeBigBranch04:TreeBigBranch04
+    400204: LittleFox_reference_02:TreeBigBranch04Branch02:TreeBigBranch04Branch02
+    400206: LittleFox_reference_02:TreeBigBranch04Branch04:TreeBigBranch04Branch01
+    2300000: LittleFox_reference_02:fox_brows_1:fox_brows_1
+    2300002: LittleFox_reference_02:fox_brows_2:fox_brows_2
+    2300004: LittleFox_reference_02:fox_brows_5
+    2300006: LittleFox_reference_02:fox_brows_6
+    2300008: LittleFox_reference_02:fox_clap_left1
+    2300010: LittleFox_reference_02:fox_clap_left:fox_clap_left
+    2300012: LittleFox_reference_02:fox_clap_right1
+    2300014: LittleFox_reference_02:fox_clap_right:fox_clap_right
+    2300016: LittleFox_reference_02:fox_elbow1
+    2300018: LittleFox_reference_02:fox_elbow1 1
+    2300020: LittleFox_reference_02:fox_elbow2
+    2300022: LittleFox_reference_02:fox_elbow2 1
+    2300024: LittleFox_reference_02:fox_foot1
+    2300026: LittleFox_reference_02:fox_foot2
+    2300028: LittleFox_reference_02:fox_head2
+    2300030: LittleFox_reference_02:fox_head:fox_head
+    2300032: LittleFox_reference_02:fox_hip2
+    2300034: LittleFox_reference_02:fox_hip:fox_hip
+    2300036: LittleFox_reference_02:fox_knee1
+    2300038: LittleFox_reference_02:fox_knee2
+    2300040: LittleFox_reference_02:fox_lids_1:fox_lids_1
+    2300042: LittleFox_reference_02:fox_lids_2:fox_lids_2
+    2300044: LittleFox_reference_02:fox_lids_5
+    2300046: LittleFox_reference_02:fox_lids_6
+    2300048: LittleFox_reference_02:fox_mouth_A2
+    2300050: LittleFox_reference_02:fox_mouth_A:fox_mouth_A
+    2300052: LittleFox_reference_02:fox_mouth_E2
+    2300054: LittleFox_reference_02:fox_mouth_E:fox_mouth_E
+    2300056: LittleFox_reference_02:fox_mouth_I2
+    2300058: LittleFox_reference_02:fox_mouth_I:fox_mouth_I
+    2300060: LittleFox_reference_02:fox_mouth_O2
+    2300062: LittleFox_reference_02:fox_mouth_O:fox_mouth_O
+    2300064: LittleFox_reference_02:fox_pupils2
+    2300066: LittleFox_reference_02:fox_pupils:fox_pupils
+    2300068: LittleFox_reference_02:fox_shoulder1
+    2300070: LittleFox_reference_02:fox_shoulder1 1
+    2300072: LittleFox_reference_02:fox_shoulder2
+    2300074: LittleFox_reference_02:fox_shoulder2 1
+    2300076: LittleFox_reference_02:fox_socks_foot1
+    2300078: LittleFox_reference_02:fox_socks_foot:fox_socks_foot
+    2300080: LittleFox_reference_02:fox_socks_knee1
+    2300082: LittleFox_reference_02:fox_socks_knee:fox_socks_knee
+    2300084: LittleFox_reference_02:fox_tail_11
+    2300086: LittleFox_reference_02:fox_tail_12
+    2300088: LittleFox_reference_02:fox_tail_13
+    2300090: LittleFox_reference_02:fox_tail_14
+    2300092: LittleFox_reference_02:fox_tail_15
+    2300094: LittleFox_reference_02:fox_tail_1:fox_tail_1
+    2300096: LittleFox_reference_02:fox_tail_2:fox_tail_2
+    2300098: LittleFox_reference_02:fox_tail_3:fox_tail_3
+    2300100: LittleFox_reference_02:fox_tail_4:fox_tail_4
+    2300102: LittleFox_reference_02:fox_tail_5:fox_tail_5
+    2300104: LittleFox_reference_02:fox_tigh1
+    2300106: LittleFox_reference_02:fox_tigh1 1
+    2300108: LittleFox_reference_02:fox_tigh2
+    2300110: LittleFox_reference_02:fox_tigh2 1
+    2300112: LittleFox_reference_02:fox_torso2
+    2300114: LittleFox_reference_02:fox_torso:fox_torso
+    2300116: LittleFox_reference_02:TreeBigBranch04:TreeBigBranch04
+    2300118: LittleFox_reference_02:TreeBigBranch04Branch02:TreeBigBranch04Branch02
+    2300120: LittleFox_reference_02:TreeBigBranch04Branch04:TreeBigBranch04Branch01
+    3300000: LittleFox_reference_02:fox_brows_1:fox_brows_1
+    3300002: LittleFox_reference_02:fox_brows_2:fox_brows_2
+    3300004: LittleFox_reference_02:fox_brows_5
+    3300006: LittleFox_reference_02:fox_brows_6
+    3300008: LittleFox_reference_02:fox_clap_left1
+    3300010: LittleFox_reference_02:fox_clap_left:fox_clap_left
+    3300012: LittleFox_reference_02:fox_clap_right1
+    3300014: LittleFox_reference_02:fox_clap_right:fox_clap_right
+    3300016: LittleFox_reference_02:fox_elbow1
+    3300018: LittleFox_reference_02:fox_elbow1 1
+    3300020: LittleFox_reference_02:fox_elbow2
+    3300022: LittleFox_reference_02:fox_elbow2 1
+    3300024: LittleFox_reference_02:fox_foot1
+    3300026: LittleFox_reference_02:fox_foot2
+    3300028: LittleFox_reference_02:fox_head2
+    3300030: LittleFox_reference_02:fox_head:fox_head
+    3300032: LittleFox_reference_02:fox_hip2
+    3300034: LittleFox_reference_02:fox_hip:fox_hip
+    3300036: LittleFox_reference_02:fox_knee1
+    3300038: LittleFox_reference_02:fox_knee2
+    3300040: LittleFox_reference_02:fox_lids_1:fox_lids_1
+    3300042: LittleFox_reference_02:fox_lids_2:fox_lids_2
+    3300044: LittleFox_reference_02:fox_lids_5
+    3300046: LittleFox_reference_02:fox_lids_6
+    3300048: LittleFox_reference_02:fox_mouth_A2
+    3300050: LittleFox_reference_02:fox_mouth_A:fox_mouth_A
+    3300052: LittleFox_reference_02:fox_mouth_E2
+    3300054: LittleFox_reference_02:fox_mouth_E:fox_mouth_E
+    3300056: LittleFox_reference_02:fox_mouth_I2
+    3300058: LittleFox_reference_02:fox_mouth_I:fox_mouth_I
+    3300060: LittleFox_reference_02:fox_mouth_O2
+    3300062: LittleFox_reference_02:fox_mouth_O:fox_mouth_O
+    3300064: LittleFox_reference_02:fox_pupils2
+    3300066: LittleFox_reference_02:fox_pupils:fox_pupils
+    3300068: LittleFox_reference_02:fox_shoulder1
+    3300070: LittleFox_reference_02:fox_shoulder1 1
+    3300072: LittleFox_reference_02:fox_shoulder2
+    3300074: LittleFox_reference_02:fox_shoulder2 1
+    3300076: LittleFox_reference_02:fox_socks_foot1
+    3300078: LittleFox_reference_02:fox_socks_foot:fox_socks_foot
+    3300080: LittleFox_reference_02:fox_socks_knee1
+    3300082: LittleFox_reference_02:fox_socks_knee:fox_socks_knee
+    3300084: LittleFox_reference_02:fox_tail_11
+    3300086: LittleFox_reference_02:fox_tail_12
+    3300088: LittleFox_reference_02:fox_tail_13
+    3300090: LittleFox_reference_02:fox_tail_14
+    3300092: LittleFox_reference_02:fox_tail_15
+    3300094: LittleFox_reference_02:fox_tail_1:fox_tail_1
+    3300096: LittleFox_reference_02:fox_tail_2:fox_tail_2
+    3300098: LittleFox_reference_02:fox_tail_3:fox_tail_3
+    3300100: LittleFox_reference_02:fox_tail_4:fox_tail_4
+    3300102: LittleFox_reference_02:fox_tail_5:fox_tail_5
+    3300104: LittleFox_reference_02:fox_tigh1
+    3300106: LittleFox_reference_02:fox_tigh1 1
+    3300108: LittleFox_reference_02:fox_tigh2
+    3300110: LittleFox_reference_02:fox_tigh2 1
+    3300112: LittleFox_reference_02:fox_torso2
+    3300114: LittleFox_reference_02:fox_torso:fox_torso
+    3300116: LittleFox_reference_02:TreeBigBranch04:TreeBigBranch04
+    3300118: LittleFox_reference_02:TreeBigBranch04Branch02:TreeBigBranch04Branch02
+    3300120: LittleFox_reference_02:TreeBigBranch04Branch04:TreeBigBranch04Branch01
+    4300000: LittleFox_reference_02:fox_hip:fox_hip
+    4300002: LittleFox_reference_02:fox_tigh2
+    4300004: LittleFox_reference_02:fox_knee1
+    4300006: LittleFox_reference_02:fox_foot1
+    4300008: LittleFox_reference_02:fox_head:fox_head
+    4300010: LittleFox_reference_02:fox_mouth_O:fox_mouth_O
+    4300012: LittleFox_reference_02:fox_mouth_E:fox_mouth_E
+    4300014: LittleFox_reference_02:fox_mouth_I:fox_mouth_I
+    4300016: LittleFox_reference_02:fox_mouth_A:fox_mouth_A
+    4300018: LittleFox_reference_02:fox_lids_2:fox_lids_2
+    4300020: LittleFox_reference_02:fox_lids_1:fox_lids_1
+    4300022: LittleFox_reference_02:fox_brows_1:fox_brows_1
+    4300024: LittleFox_reference_02:fox_brows_2:fox_brows_2
+    4300026: LittleFox_reference_02:fox_pupils:fox_pupils
+    4300028: LittleFox_reference_02:fox_elbow1
+    4300030: LittleFox_reference_02:fox_shoulder1
+    4300032: LittleFox_reference_02:fox_elbow2
+    4300034: LittleFox_reference_02:fox_shoulder2
+    4300036: LittleFox_reference_02:fox_torso:fox_torso
+    4300038: LittleFox_reference_02:fox_tail_5:fox_tail_5
+    4300040: LittleFox_reference_02:fox_tail_4:fox_tail_4
+    4300042: LittleFox_reference_02:fox_tail_3:fox_tail_3
+    4300044: LittleFox_reference_02:fox_tail_2:fox_tail_2
+    4300046: LittleFox_reference_02:fox_tail_1:fox_tail_1
+    4300048: LittleFox_reference_02:fox_tigh1
+    4300050: LittleFox_reference_02:fox_knee2
+    4300052: LittleFox_reference_02:fox_foot2
+    4300054: LittleFox_reference_02:fox_clap_right:fox_clap_right
+    4300056: LittleFox_reference_02:fox_clap_left:fox_clap_left
+    4300058: LittleFox_reference_02:fox_hip2
+    4300060: LittleFox_reference_02:fox_tigh2
+    4300062: LittleFox_reference_02:fox_socks_knee:fox_socks_knee
+    4300064: LittleFox_reference_02:fox_socks_foot:fox_socks_foot
+    4300066: LittleFox_reference_02:fox_head2
+    4300068: LittleFox_reference_02:fox_mouth_O2
+    4300070: LittleFox_reference_02:fox_mouth_E2
+    4300072: LittleFox_reference_02:fox_mouth_I2
+    4300074: LittleFox_reference_02:fox_mouth_A2
+    4300076: LittleFox_reference_02:fox_lids_5
+    4300078: LittleFox_reference_02:fox_lids_6
+    4300080: LittleFox_reference_02:fox_brows_5
+    4300082: LittleFox_reference_02:fox_brows_6
+    4300084: LittleFox_reference_02:fox_pupils2
+    4300086: LittleFox_reference_02:fox_elbow1
+    4300088: LittleFox_reference_02:fox_shoulder1
+    4300090: LittleFox_reference_02:fox_elbow2
+    4300092: LittleFox_reference_02:fox_shoulder2
+    4300094: LittleFox_reference_02:fox_torso2
+    4300096: LittleFox_reference_02:fox_tail_11
+    4300098: LittleFox_reference_02:fox_tail_12
+    4300100: LittleFox_reference_02:fox_tail_13
+    4300102: LittleFox_reference_02:fox_tail_14
+    4300104: LittleFox_reference_02:fox_tail_15
+    4300106: LittleFox_reference_02:fox_tigh1
+    4300108: LittleFox_reference_02:fox_socks_knee1
+    4300110: LittleFox_reference_02:fox_socks_foot1
+    4300112: LittleFox_reference_02:fox_clap_right1
+    4300114: LittleFox_reference_02:fox_clap_left1
+    4300116: LittleFox_reference_02:TreeBigBranch04:TreeBigBranch04
+    4300118: LittleFox_reference_02:TreeBigBranch04Branch04:TreeBigBranch04Branch01
+    4300120: LittleFox_reference_02:TreeBigBranch04Branch02:TreeBigBranch04Branch02
+    7400000: littleFox_idle_eng_03
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: littleFox_idle_eng_03
+      takeName: littleFox_idle_eng_03
+      firstFrame: 1
+      lastFrame: 240
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: LittleFox_reference_02:back5
+        weight: 1
+      - path: LittleFox_reference_02:branch
+        weight: 1
+      - path: LittleFox_reference_02:branch/LittleFox_reference_02:TreeBigBranch04:TreeBigBranch04
+        weight: 1
+      - path: LittleFox_reference_02:branch/LittleFox_reference_02:TreeBigBranch04Branch02:TreeBigBranch04Branch02
+        weight: 1
+      - path: LittleFox_reference_02:branch/LittleFox_reference_02:TreeBigBranch04Branch04:TreeBigBranch04Branch01
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:back
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:back/LittleFox_reference_02:fox_torso:fox_torso
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:back/LittleFox_reference_02:joint10
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:back/LittleFox_reference_02:joint10/LittleFox_reference_02:fox_shoulder1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:back/LittleFox_reference_02:joint10/LittleFox_reference_02:joint11
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:back/LittleFox_reference_02:joint10/LittleFox_reference_02:joint11/LittleFox_reference_02:fox_elbow1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:back/LittleFox_reference_02:joint10/LittleFox_reference_02:joint11/LittleFox_reference_02:joint12
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:back/LittleFox_reference_02:joint13
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:back/LittleFox_reference_02:joint13/LittleFox_reference_02:fox_shoulder2
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:back/LittleFox_reference_02:joint13/LittleFox_reference_02:joint14
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:back/LittleFox_reference_02:joint13/LittleFox_reference_02:joint14/LittleFox_reference_02:fox_elbow2
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:back/LittleFox_reference_02:joint13/LittleFox_reference_02:joint14/LittleFox_reference_02:joint15
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:back/LittleFox_reference_02:nurbsCircle1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:back/LittleFox_reference_02:nurbsCircle1/LittleFox_reference_02:fox_head:fox_head
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:back/LittleFox_reference_02:nurbsCircle1/LittleFox_reference_02:fox_head:fox_head/LittleFox_reference_02:fox_brows_1:fox_brows_1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:back/LittleFox_reference_02:nurbsCircle1/LittleFox_reference_02:fox_head:fox_head/LittleFox_reference_02:fox_brows_2:fox_brows_2
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:back/LittleFox_reference_02:nurbsCircle1/LittleFox_reference_02:fox_head:fox_head/LittleFox_reference_02:fox_lids_1:fox_lids_1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:back/LittleFox_reference_02:nurbsCircle1/LittleFox_reference_02:fox_head:fox_head/LittleFox_reference_02:fox_lids_2:fox_lids_2
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:back/LittleFox_reference_02:nurbsCircle1/LittleFox_reference_02:fox_head:fox_head/LittleFox_reference_02:fox_mouth_A:fox_mouth_A
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:back/LittleFox_reference_02:nurbsCircle1/LittleFox_reference_02:fox_head:fox_head/LittleFox_reference_02:fox_mouth_E:fox_mouth_E
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:back/LittleFox_reference_02:nurbsCircle1/LittleFox_reference_02:fox_head:fox_head/LittleFox_reference_02:fox_mouth_I:fox_mouth_I
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:back/LittleFox_reference_02:nurbsCircle1/LittleFox_reference_02:fox_head:fox_head/LittleFox_reference_02:fox_mouth_O:fox_mouth_O
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:back/LittleFox_reference_02:nurbsCircle1/LittleFox_reference_02:fox_head:fox_head/LittleFox_reference_02:fox_pupils:fox_pupils
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:fox_hip:fox_hip
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:fox_tigh1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:fox_tigh1/LittleFox_reference_02:fox_knee2
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:fox_tigh1/LittleFox_reference_02:fox_knee2/LittleFox_reference_02:fox_foot2
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:fox_tigh2
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:fox_tigh2/LittleFox_reference_02:fox_knee1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:fox_tigh2/LittleFox_reference_02:fox_knee1/LittleFox_reference_02:fox_foot1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:tail_RotateMain
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:tail_RotateMain/LittleFox_reference_02:fox_tail_1:fox_tail_1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:tail_RotateMain/LittleFox_reference_02:tail_Rotate2
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:tail_RotateMain/LittleFox_reference_02:tail_Rotate2/LittleFox_reference_02:fox_tail_2:fox_tail_2
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:tail_RotateMain/LittleFox_reference_02:tail_Rotate2/LittleFox_reference_02:tail_Rotate3
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:tail_RotateMain/LittleFox_reference_02:tail_Rotate2/LittleFox_reference_02:tail_Rotate3/LittleFox_reference_02:fox_tail_3:fox_tail_3
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:tail_RotateMain/LittleFox_reference_02:tail_Rotate2/LittleFox_reference_02:tail_Rotate3/LittleFox_reference_02:tail_Rotate4
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:tail_RotateMain/LittleFox_reference_02:tail_Rotate2/LittleFox_reference_02:tail_Rotate3/LittleFox_reference_02:tail_Rotate4/LittleFox_reference_02:fox_tail_4:fox_tail_4
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:tail_RotateMain/LittleFox_reference_02:tail_Rotate2/LittleFox_reference_02:tail_Rotate3/LittleFox_reference_02:tail_Rotate4/LittleFox_reference_02:tail_Rotate5
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:body/LittleFox_reference_02:tail_RotateMain/LittleFox_reference_02:tail_Rotate2/LittleFox_reference_02:tail_Rotate3/LittleFox_reference_02:tail_Rotate4/LittleFox_reference_02:tail_Rotate5/LittleFox_reference_02:fox_tail_5:fox_tail_5
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:hand1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:hand1/LittleFox_reference_02:fox_clap_right:fox_clap_right
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:hand1/LittleFox_reference_02:ikHandle3
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:hand2
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:hand2/LittleFox_reference_02:fox_clap_left:fox_clap_left
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain/LittleFox_reference_02:hand2/LittleFox_reference_02:ikHandle4
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:back
+          1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:back
+          1/LittleFox_reference_02:fox_torso2
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:back
+          1/LittleFox_reference_02:joint10 1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:back
+          1/LittleFox_reference_02:joint10 1/LittleFox_reference_02:fox_shoulder1
+          1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:back
+          1/LittleFox_reference_02:joint10 1/LittleFox_reference_02:joint11 1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:back
+          1/LittleFox_reference_02:joint10 1/LittleFox_reference_02:joint11 1/LittleFox_reference_02:fox_elbow1
+          1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:back
+          1/LittleFox_reference_02:joint10 1/LittleFox_reference_02:joint11 1/LittleFox_reference_02:joint12
+          1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:back
+          1/LittleFox_reference_02:joint13 1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:back
+          1/LittleFox_reference_02:joint13 1/LittleFox_reference_02:fox_shoulder2
+          1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:back
+          1/LittleFox_reference_02:joint13 1/LittleFox_reference_02:joint14 1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:back
+          1/LittleFox_reference_02:joint13 1/LittleFox_reference_02:joint14 1/LittleFox_reference_02:fox_elbow2
+          1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:back
+          1/LittleFox_reference_02:joint13 1/LittleFox_reference_02:joint14 1/LittleFox_reference_02:joint15
+          1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:back
+          1/LittleFox_reference_02:nurbsCircle1 1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:back
+          1/LittleFox_reference_02:nurbsCircle1 1/LittleFox_reference_02:fox_head2
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:back
+          1/LittleFox_reference_02:nurbsCircle1 1/LittleFox_reference_02:fox_head2/LittleFox_reference_02:fox_brows_5
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:back
+          1/LittleFox_reference_02:nurbsCircle1 1/LittleFox_reference_02:fox_head2/LittleFox_reference_02:fox_brows_6
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:back
+          1/LittleFox_reference_02:nurbsCircle1 1/LittleFox_reference_02:fox_head2/LittleFox_reference_02:fox_lids_5
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:back
+          1/LittleFox_reference_02:nurbsCircle1 1/LittleFox_reference_02:fox_head2/LittleFox_reference_02:fox_lids_6
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:back
+          1/LittleFox_reference_02:nurbsCircle1 1/LittleFox_reference_02:fox_head2/LittleFox_reference_02:fox_mouth_A2
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:back
+          1/LittleFox_reference_02:nurbsCircle1 1/LittleFox_reference_02:fox_head2/LittleFox_reference_02:fox_mouth_E2
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:back
+          1/LittleFox_reference_02:nurbsCircle1 1/LittleFox_reference_02:fox_head2/LittleFox_reference_02:fox_mouth_I2
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:back
+          1/LittleFox_reference_02:nurbsCircle1 1/LittleFox_reference_02:fox_head2/LittleFox_reference_02:fox_mouth_O2
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:back
+          1/LittleFox_reference_02:nurbsCircle1 1/LittleFox_reference_02:fox_head2/LittleFox_reference_02:fox_pupils2
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:fox_hip2
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:fox_hip2/LittleFox_reference_02:fox_tigh2
+          1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:fox_hip2/LittleFox_reference_02:fox_tigh2
+          1/LittleFox_reference_02:fox_socks_knee:fox_socks_knee
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:fox_hip2/LittleFox_reference_02:fox_tigh2
+          1/LittleFox_reference_02:fox_socks_knee:fox_socks_knee/LittleFox_reference_02:fox_socks_foot:fox_socks_foot
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:fox_tigh1
+          1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:fox_tigh1
+          1/LittleFox_reference_02:fox_socks_knee1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:fox_tigh1
+          1/LittleFox_reference_02:fox_socks_knee1/LittleFox_reference_02:fox_socks_foot1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:tail_RotateMain
+          1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:tail_RotateMain
+          1/LittleFox_reference_02:fox_tail_15
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:tail_RotateMain
+          1/LittleFox_reference_02:tail_Rotate2 1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:tail_RotateMain
+          1/LittleFox_reference_02:tail_Rotate2 1/LittleFox_reference_02:fox_tail_14
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:tail_RotateMain
+          1/LittleFox_reference_02:tail_Rotate2 1/LittleFox_reference_02:tail_Rotate3
+          1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:tail_RotateMain
+          1/LittleFox_reference_02:tail_Rotate2 1/LittleFox_reference_02:tail_Rotate3
+          1/LittleFox_reference_02:fox_tail_13
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:tail_RotateMain
+          1/LittleFox_reference_02:tail_Rotate2 1/LittleFox_reference_02:tail_Rotate3
+          1/LittleFox_reference_02:tail_Rotate4 1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:tail_RotateMain
+          1/LittleFox_reference_02:tail_Rotate2 1/LittleFox_reference_02:tail_Rotate3
+          1/LittleFox_reference_02:tail_Rotate4 1/LittleFox_reference_02:fox_tail_12
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:tail_RotateMain
+          1/LittleFox_reference_02:tail_Rotate2 1/LittleFox_reference_02:tail_Rotate3
+          1/LittleFox_reference_02:tail_Rotate4 1/LittleFox_reference_02:tail_Rotate5
+          1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:body 1/LittleFox_reference_02:tail_RotateMain
+          1/LittleFox_reference_02:tail_Rotate2 1/LittleFox_reference_02:tail_Rotate3
+          1/LittleFox_reference_02:tail_Rotate4 1/LittleFox_reference_02:tail_Rotate5
+          1/LittleFox_reference_02:fox_tail_11
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:hand1 1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:hand1 1/LittleFox_reference_02:fox_clap_right1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:hand1 1/LittleFox_reference_02:ikHandle3
+          1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:hand1 1/LittleFox_reference_02:ikHandle7
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:hand2 1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:hand2 1/LittleFox_reference_02:fox_clap_left1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:hand2 1/LittleFox_reference_02:ikHandle4
+          1
+        weight: 1
+      - path: LittleFox_reference_02:FoxMain1/LittleFox_reference_02:hand2 1/LittleFox_reference_02:ikHandle8
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

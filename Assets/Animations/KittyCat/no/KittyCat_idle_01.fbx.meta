@@ -1,0 +1,651 @@
+fileFormatVersion: 2
+guid: 0e8b9e2c4925c48828fde4f26aee8473
+timeCreated: 1478155792
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: KittyCat_04:back1
+    100002: KittyCat_04:cat
+    100004: KittyCat_04:Cat_AA:Cat_AA
+    100006: KittyCat_04:Cat_back_leg1
+    100008: KittyCat_04:Cat_back_leg2
+    100010: KittyCat_04:Cat_body:Cat_body
+    100012: KittyCat_04:Cat_E:Cat_E
+    100014: KittyCat_04:Cat_elbow:Cat_elbow_01
+    100016: KittyCat_04:Cat_elbow_01
+    100018: KittyCat_04:Cat_eyes_closed:Cat_eyes_closed
+    100020: KittyCat_04:Cat_eyes_open:Cat_eyes_open
+    100022: KittyCat_04:Cat_head:Cat_head
+    100024: KittyCat_04:Cat_hip:Cat_hip
+    100026: KittyCat_04:Cat_I:Cat_I
+    100028: KittyCat_04:Cat_lids_under:Cat_lids_under
+    100030: KittyCat_04:Cat_neck:Cat_neck
+    100032: KittyCat_04:Cat_paw:Cat_paw_01
+    100034: KittyCat_04:Cat_paw_01
+    100036: KittyCat_04:Cat_pupils:Cat_pupils
+    100038: KittyCat_04:cat_rest
+    100040: KittyCat_04:Cat_shoulder:Cat_shoulder_01
+    100042: KittyCat_04:Cat_shoulder_01
+    100044: KittyCat_04:Cat_smile:Cat_smile
+    100046: KittyCat_04:Cat_tail:Cat_tail
+    100048: KittyCat_04:head
+    100050: KittyCat_04:ikHandle1
+    100052: KittyCat_04:ikHandle2
+    100054: KittyCat_04:ikHandle3
+    100056: KittyCat_04:ikHandle4
+    100058: KittyCat_04:joint10
+    100060: KittyCat_04:joint11
+    100062: KittyCat_04:joint12
+    100064: KittyCat_04:joint2
+    100066: KittyCat_04:joint3
+    100068: KittyCat_04:joint5
+    100070: KittyCat_04:joint6
+    100072: KittyCat_04:joint7
+    100074: KittyCat_04:joint8
+    100076: KittyCat_04:joint9
+    100078: KittyCat_04:joint_leg_01
+    100080: KittyCat_04:joint_leg_02
+    100082: KittyCat_04:neck
+    100084: KittyCat_04:nurbsCircle1
+    100086: KittyCat_04:paw_01
+    100088: KittyCat_04:paw_02
+    100090: KittyCat_04:squirrel
+    100092: KittyCat_04:squirrel__02:BANJO
+    100094: KittyCat_04:squirrel__02:ch_squirrel_l_FK_shoulder
+    100096: KittyCat_04:squirrel__02:ch_squirrel_l_hand_ikHandle
+    100098: KittyCat_04:squirrel__02:ch_squirrel_l_hip
+    100100: KittyCat_04:squirrel__02:ch_squirrel_l_IK_hand
+    100102: KittyCat_04:squirrel__02:ch_squirrel_l_joint_elbow
+    100104: KittyCat_04:squirrel__02:ch_squirrel_l_joint_hand
+    100106: KittyCat_04:squirrel__02:ch_squirrel_l_joint_shoulder
+    100108: KittyCat_04:squirrel__02:ch_squirrel_master_control
+    100110: KittyCat_04:squirrel__02:ch_squirrel_neck
+    100112: KittyCat_04:squirrel__02:ch_squirrel_r_FK_shoulder
+    100114: KittyCat_04:squirrel__02:ch_squirrel_r_hand_ikHandle
+    100116: KittyCat_04:squirrel__02:ch_squirrel_r_hip
+    100118: KittyCat_04:squirrel__02:ch_squirrel_r_IK_ankle
+    100120: KittyCat_04:squirrel__02:ch_squirrel_r_IK_hand
+    100122: KittyCat_04:squirrel__02:ch_squirrel_r_joint_elbow
+    100124: KittyCat_04:squirrel__02:ch_squirrel_r_joint_hand
+    100126: KittyCat_04:squirrel__02:ch_squirrel_r_joint_shoulder
+    100128: KittyCat_04:squirrel__02:ch_squirrel_torso
+    100130: KittyCat_04:squirrel__02:group2
+    100132: KittyCat_04:squirrel__02:nurbsCircle1
+    100134: KittyCat_04:squirrel__02:nurbsCircle2
+    100136: KittyCat_04:squirrel_banjo:squirrel_banjo
+    100138: KittyCat_04:squirrel_elbow_left:squirrel_elbow_left
+    100140: KittyCat_04:squirrel_elbow_right:squirrel_elbow_right
+    100142: KittyCat_04:squirrel_eye_closed:squirrel_eye_closed
+    100144: KittyCat_04:squirrel_eye_closed_half:squirrel_eye_closed_half
+    100146: KittyCat_04:squirrel_eye_open:squirrel_eye_open
+    100148: KittyCat_04:squirrel_fingers_left_02:squirrel_fingers_left_02
+    100150: KittyCat_04:squirrel_foot_L
+    100152: KittyCat_04:squirrel_foot_R
+    100154: KittyCat_04:squirrel_hand_left:squirrel_hand_left
+    100156: KittyCat_04:squirrel_hand_right_02:squirrel_hand_right_02
+    100158: KittyCat_04:squirrel_hat:squirrel_hat
+    100160: KittyCat_04:squirrel_head:squirrel_head
+    100162: KittyCat_04:squirrel_hip:squirrel_hip
+    100164: KittyCat_04:squirrel_knee_L
+    100166: KittyCat_04:squirrel_knee_R
+    100168: KittyCat_04:squirrel_mouth_AA:squirrel_mouth_AA
+    100170: KittyCat_04:squirrel_mouth_EE:squirrel_mouth_EE
+    100172: KittyCat_04:squirrel_mouth_II:squirrel_mouth_II
+    100174: KittyCat_04:squirrel_mouth_OO:squirrel_mouth_OO
+    100176: KittyCat_04:squirrel_mouth_smile:squirrel_mouth_smile
+    100178: "KittyCat_04:squirrel_mouth_\xC3_H:squirrel_mouth_\xC3_H"
+    100180: KittyCat_04:squirrel_shoulder_left:squirrel_shoulder_left
+    100182: KittyCat_04:squirrel_shoulder_right:squirrel_shoulder_right
+    100184: KittyCat_04:squirrel_tail:squirrel_tail
+    100186: KittyCat_04:squirrel_thigh_L
+    100188: KittyCat_04:squirrel_thigh_R
+    100190: KittyCat_04:squirrel_torso:squirrel_torso
+    100192: KittyCat_04:squirrrel_pupil:squirrrel_pupil
+    100194: KittyCat_04:transform1
+    100196: KittyCat_04:transform2
+    100198: //RootNode
+    400000: KittyCat_04:back1
+    400002: KittyCat_04:cat
+    400004: KittyCat_04:Cat_AA:Cat_AA
+    400006: KittyCat_04:Cat_back_leg1
+    400008: KittyCat_04:Cat_back_leg2
+    400010: KittyCat_04:Cat_body:Cat_body
+    400012: KittyCat_04:Cat_E:Cat_E
+    400014: KittyCat_04:Cat_elbow:Cat_elbow_01
+    400016: KittyCat_04:Cat_elbow_01
+    400018: KittyCat_04:Cat_eyes_closed:Cat_eyes_closed
+    400020: KittyCat_04:Cat_eyes_open:Cat_eyes_open
+    400022: KittyCat_04:Cat_head:Cat_head
+    400024: KittyCat_04:Cat_hip:Cat_hip
+    400026: KittyCat_04:Cat_I:Cat_I
+    400028: KittyCat_04:Cat_lids_under:Cat_lids_under
+    400030: KittyCat_04:Cat_neck:Cat_neck
+    400032: KittyCat_04:Cat_paw:Cat_paw_01
+    400034: KittyCat_04:Cat_paw_01
+    400036: KittyCat_04:Cat_pupils:Cat_pupils
+    400038: KittyCat_04:cat_rest
+    400040: KittyCat_04:Cat_shoulder:Cat_shoulder_01
+    400042: KittyCat_04:Cat_shoulder_01
+    400044: KittyCat_04:Cat_smile:Cat_smile
+    400046: KittyCat_04:Cat_tail:Cat_tail
+    400048: KittyCat_04:head
+    400050: KittyCat_04:ikHandle1
+    400052: KittyCat_04:ikHandle2
+    400054: KittyCat_04:ikHandle3
+    400056: KittyCat_04:ikHandle4
+    400058: KittyCat_04:joint10
+    400060: KittyCat_04:joint11
+    400062: KittyCat_04:joint12
+    400064: KittyCat_04:joint2
+    400066: KittyCat_04:joint3
+    400068: KittyCat_04:joint5
+    400070: KittyCat_04:joint6
+    400072: KittyCat_04:joint7
+    400074: KittyCat_04:joint8
+    400076: KittyCat_04:joint9
+    400078: KittyCat_04:joint_leg_01
+    400080: KittyCat_04:joint_leg_02
+    400082: KittyCat_04:neck
+    400084: KittyCat_04:nurbsCircle1
+    400086: KittyCat_04:paw_01
+    400088: KittyCat_04:paw_02
+    400090: KittyCat_04:squirrel
+    400092: KittyCat_04:squirrel__02:BANJO
+    400094: KittyCat_04:squirrel__02:ch_squirrel_l_FK_shoulder
+    400096: KittyCat_04:squirrel__02:ch_squirrel_l_hand_ikHandle
+    400098: KittyCat_04:squirrel__02:ch_squirrel_l_hip
+    400100: KittyCat_04:squirrel__02:ch_squirrel_l_IK_hand
+    400102: KittyCat_04:squirrel__02:ch_squirrel_l_joint_elbow
+    400104: KittyCat_04:squirrel__02:ch_squirrel_l_joint_hand
+    400106: KittyCat_04:squirrel__02:ch_squirrel_l_joint_shoulder
+    400108: KittyCat_04:squirrel__02:ch_squirrel_master_control
+    400110: KittyCat_04:squirrel__02:ch_squirrel_neck
+    400112: KittyCat_04:squirrel__02:ch_squirrel_r_FK_shoulder
+    400114: KittyCat_04:squirrel__02:ch_squirrel_r_hand_ikHandle
+    400116: KittyCat_04:squirrel__02:ch_squirrel_r_hip
+    400118: KittyCat_04:squirrel__02:ch_squirrel_r_IK_ankle
+    400120: KittyCat_04:squirrel__02:ch_squirrel_r_IK_hand
+    400122: KittyCat_04:squirrel__02:ch_squirrel_r_joint_elbow
+    400124: KittyCat_04:squirrel__02:ch_squirrel_r_joint_hand
+    400126: KittyCat_04:squirrel__02:ch_squirrel_r_joint_shoulder
+    400128: KittyCat_04:squirrel__02:ch_squirrel_torso
+    400130: KittyCat_04:squirrel__02:group2
+    400132: KittyCat_04:squirrel__02:nurbsCircle1
+    400134: KittyCat_04:squirrel__02:nurbsCircle2
+    400136: KittyCat_04:squirrel_banjo:squirrel_banjo
+    400138: KittyCat_04:squirrel_elbow_left:squirrel_elbow_left
+    400140: KittyCat_04:squirrel_elbow_right:squirrel_elbow_right
+    400142: KittyCat_04:squirrel_eye_closed:squirrel_eye_closed
+    400144: KittyCat_04:squirrel_eye_closed_half:squirrel_eye_closed_half
+    400146: KittyCat_04:squirrel_eye_open:squirrel_eye_open
+    400148: KittyCat_04:squirrel_fingers_left_02:squirrel_fingers_left_02
+    400150: KittyCat_04:squirrel_foot_L
+    400152: KittyCat_04:squirrel_foot_R
+    400154: KittyCat_04:squirrel_hand_left:squirrel_hand_left
+    400156: KittyCat_04:squirrel_hand_right_02:squirrel_hand_right_02
+    400158: KittyCat_04:squirrel_hat:squirrel_hat
+    400160: KittyCat_04:squirrel_head:squirrel_head
+    400162: KittyCat_04:squirrel_hip:squirrel_hip
+    400164: KittyCat_04:squirrel_knee_L
+    400166: KittyCat_04:squirrel_knee_R
+    400168: KittyCat_04:squirrel_mouth_AA:squirrel_mouth_AA
+    400170: KittyCat_04:squirrel_mouth_EE:squirrel_mouth_EE
+    400172: KittyCat_04:squirrel_mouth_II:squirrel_mouth_II
+    400174: KittyCat_04:squirrel_mouth_OO:squirrel_mouth_OO
+    400176: KittyCat_04:squirrel_mouth_smile:squirrel_mouth_smile
+    400178: "KittyCat_04:squirrel_mouth_\xC3_H:squirrel_mouth_\xC3_H"
+    400180: KittyCat_04:squirrel_shoulder_left:squirrel_shoulder_left
+    400182: KittyCat_04:squirrel_shoulder_right:squirrel_shoulder_right
+    400184: KittyCat_04:squirrel_tail:squirrel_tail
+    400186: KittyCat_04:squirrel_thigh_L
+    400188: KittyCat_04:squirrel_thigh_R
+    400190: KittyCat_04:squirrel_torso:squirrel_torso
+    400192: KittyCat_04:squirrrel_pupil:squirrrel_pupil
+    400194: KittyCat_04:transform1
+    400196: KittyCat_04:transform2
+    400198: //RootNode
+    2300000: KittyCat_04:Cat_AA:Cat_AA
+    2300002: KittyCat_04:Cat_back_leg1
+    2300004: KittyCat_04:Cat_back_leg2
+    2300006: KittyCat_04:Cat_body:Cat_body
+    2300008: KittyCat_04:Cat_E:Cat_E
+    2300010: KittyCat_04:Cat_elbow:Cat_elbow_01
+    2300012: KittyCat_04:Cat_elbow_01
+    2300014: KittyCat_04:Cat_eyes_closed:Cat_eyes_closed
+    2300016: KittyCat_04:Cat_eyes_open:Cat_eyes_open
+    2300018: KittyCat_04:Cat_head:Cat_head
+    2300020: KittyCat_04:Cat_hip:Cat_hip
+    2300022: KittyCat_04:Cat_I:Cat_I
+    2300024: KittyCat_04:Cat_lids_under:Cat_lids_under
+    2300026: KittyCat_04:Cat_neck:Cat_neck
+    2300028: KittyCat_04:Cat_paw:Cat_paw_01
+    2300030: KittyCat_04:Cat_paw_01
+    2300032: KittyCat_04:Cat_pupils:Cat_pupils
+    2300034: KittyCat_04:Cat_shoulder:Cat_shoulder_01
+    2300036: KittyCat_04:Cat_shoulder_01
+    2300038: KittyCat_04:Cat_smile:Cat_smile
+    2300040: KittyCat_04:Cat_tail:Cat_tail
+    2300042: KittyCat_04:squirrel_banjo:squirrel_banjo
+    2300044: KittyCat_04:squirrel_elbow_left:squirrel_elbow_left
+    2300046: KittyCat_04:squirrel_elbow_right:squirrel_elbow_right
+    2300048: KittyCat_04:squirrel_eye_closed:squirrel_eye_closed
+    2300050: KittyCat_04:squirrel_eye_closed_half:squirrel_eye_closed_half
+    2300052: KittyCat_04:squirrel_eye_open:squirrel_eye_open
+    2300054: KittyCat_04:squirrel_fingers_left_02:squirrel_fingers_left_02
+    2300056: KittyCat_04:squirrel_foot_L
+    2300058: KittyCat_04:squirrel_foot_R
+    2300060: KittyCat_04:squirrel_hand_left:squirrel_hand_left
+    2300062: KittyCat_04:squirrel_hand_right_02:squirrel_hand_right_02
+    2300064: KittyCat_04:squirrel_hat:squirrel_hat
+    2300066: KittyCat_04:squirrel_head:squirrel_head
+    2300068: KittyCat_04:squirrel_hip:squirrel_hip
+    2300070: KittyCat_04:squirrel_knee_L
+    2300072: KittyCat_04:squirrel_knee_R
+    2300074: KittyCat_04:squirrel_mouth_AA:squirrel_mouth_AA
+    2300076: KittyCat_04:squirrel_mouth_EE:squirrel_mouth_EE
+    2300078: KittyCat_04:squirrel_mouth_II:squirrel_mouth_II
+    2300080: KittyCat_04:squirrel_mouth_OO:squirrel_mouth_OO
+    2300082: KittyCat_04:squirrel_mouth_smile:squirrel_mouth_smile
+    2300084: "KittyCat_04:squirrel_mouth_\xC3_H:squirrel_mouth_\xC3_H"
+    2300086: KittyCat_04:squirrel_shoulder_left:squirrel_shoulder_left
+    2300088: KittyCat_04:squirrel_shoulder_right:squirrel_shoulder_right
+    2300090: KittyCat_04:squirrel_tail:squirrel_tail
+    2300092: KittyCat_04:squirrel_thigh_L
+    2300094: KittyCat_04:squirrel_thigh_R
+    2300096: KittyCat_04:squirrel_torso:squirrel_torso
+    2300098: KittyCat_04:squirrrel_pupil:squirrrel_pupil
+    3300000: KittyCat_04:Cat_AA:Cat_AA
+    3300002: KittyCat_04:Cat_back_leg1
+    3300004: KittyCat_04:Cat_back_leg2
+    3300006: KittyCat_04:Cat_body:Cat_body
+    3300008: KittyCat_04:Cat_E:Cat_E
+    3300010: KittyCat_04:Cat_elbow:Cat_elbow_01
+    3300012: KittyCat_04:Cat_elbow_01
+    3300014: KittyCat_04:Cat_eyes_closed:Cat_eyes_closed
+    3300016: KittyCat_04:Cat_eyes_open:Cat_eyes_open
+    3300018: KittyCat_04:Cat_head:Cat_head
+    3300020: KittyCat_04:Cat_hip:Cat_hip
+    3300022: KittyCat_04:Cat_I:Cat_I
+    3300024: KittyCat_04:Cat_lids_under:Cat_lids_under
+    3300026: KittyCat_04:Cat_neck:Cat_neck
+    3300028: KittyCat_04:Cat_paw:Cat_paw_01
+    3300030: KittyCat_04:Cat_paw_01
+    3300032: KittyCat_04:Cat_pupils:Cat_pupils
+    3300034: KittyCat_04:Cat_shoulder:Cat_shoulder_01
+    3300036: KittyCat_04:Cat_shoulder_01
+    3300038: KittyCat_04:Cat_smile:Cat_smile
+    3300040: KittyCat_04:Cat_tail:Cat_tail
+    3300042: KittyCat_04:squirrel_banjo:squirrel_banjo
+    3300044: KittyCat_04:squirrel_elbow_left:squirrel_elbow_left
+    3300046: KittyCat_04:squirrel_elbow_right:squirrel_elbow_right
+    3300048: KittyCat_04:squirrel_eye_closed:squirrel_eye_closed
+    3300050: KittyCat_04:squirrel_eye_closed_half:squirrel_eye_closed_half
+    3300052: KittyCat_04:squirrel_eye_open:squirrel_eye_open
+    3300054: KittyCat_04:squirrel_fingers_left_02:squirrel_fingers_left_02
+    3300056: KittyCat_04:squirrel_foot_L
+    3300058: KittyCat_04:squirrel_foot_R
+    3300060: KittyCat_04:squirrel_hand_left:squirrel_hand_left
+    3300062: KittyCat_04:squirrel_hand_right_02:squirrel_hand_right_02
+    3300064: KittyCat_04:squirrel_hat:squirrel_hat
+    3300066: KittyCat_04:squirrel_head:squirrel_head
+    3300068: KittyCat_04:squirrel_hip:squirrel_hip
+    3300070: KittyCat_04:squirrel_knee_L
+    3300072: KittyCat_04:squirrel_knee_R
+    3300074: KittyCat_04:squirrel_mouth_AA:squirrel_mouth_AA
+    3300076: KittyCat_04:squirrel_mouth_EE:squirrel_mouth_EE
+    3300078: KittyCat_04:squirrel_mouth_II:squirrel_mouth_II
+    3300080: KittyCat_04:squirrel_mouth_OO:squirrel_mouth_OO
+    3300082: KittyCat_04:squirrel_mouth_smile:squirrel_mouth_smile
+    3300084: "KittyCat_04:squirrel_mouth_\xC3_H:squirrel_mouth_\xC3_H"
+    3300086: KittyCat_04:squirrel_shoulder_left:squirrel_shoulder_left
+    3300088: KittyCat_04:squirrel_shoulder_right:squirrel_shoulder_right
+    3300090: KittyCat_04:squirrel_tail:squirrel_tail
+    3300092: KittyCat_04:squirrel_thigh_L
+    3300094: KittyCat_04:squirrel_thigh_R
+    3300096: KittyCat_04:squirrel_torso:squirrel_torso
+    3300098: KittyCat_04:squirrrel_pupil:squirrrel_pupil
+    4300000: KittyCat_04:Cat_hip:Cat_hip
+    4300002: KittyCat_04:Cat_body:Cat_body
+    4300004: KittyCat_04:Cat_head:Cat_head
+    4300006: KittyCat_04:Cat_eyes_closed:Cat_eyes_closed
+    4300008: KittyCat_04:Cat_pupils:Cat_pupils
+    4300010: KittyCat_04:Cat_AA:Cat_AA
+    4300012: KittyCat_04:Cat_E:Cat_E
+    4300014: KittyCat_04:Cat_I:Cat_I
+    4300016: KittyCat_04:Cat_smile:Cat_smile
+    4300018: KittyCat_04:Cat_lids_under:Cat_lids_under
+    4300020: KittyCat_04:Cat_eyes_open:Cat_eyes_open
+    4300022: KittyCat_04:Cat_neck:Cat_neck
+    4300024: KittyCat_04:Cat_elbow:Cat_elbow_01
+    4300026: KittyCat_04:Cat_shoulder:Cat_shoulder_01
+    4300028: KittyCat_04:Cat_elbow_01
+    4300030: KittyCat_04:Cat_shoulder_01
+    4300032: KittyCat_04:Cat_paw_01
+    4300034: KittyCat_04:Cat_paw:Cat_paw_01
+    4300036: KittyCat_04:Cat_tail:Cat_tail
+    4300038: KittyCat_04:Cat_back_leg1
+    4300040: KittyCat_04:Cat_back_leg2
+    4300042: KittyCat_04:squirrel_banjo:squirrel_banjo
+    4300044: KittyCat_04:squirrel_head:squirrel_head
+    4300046: KittyCat_04:squirrel_eye_closed_half:squirrel_eye_closed_half
+    4300048: KittyCat_04:squirrel_eye_open:squirrel_eye_open
+    4300050: KittyCat_04:squirrrel_pupil:squirrrel_pupil
+    4300052: KittyCat_04:squirrel_hat:squirrel_hat
+    4300054: KittyCat_04:squirrel_eye_closed:squirrel_eye_closed
+    4300056: KittyCat_04:squirrel_mouth_AA:squirrel_mouth_AA
+    4300058: KittyCat_04:squirrel_mouth_OO:squirrel_mouth_OO
+    4300060: KittyCat_04:squirrel_mouth_II:squirrel_mouth_II
+    4300062: KittyCat_04:squirrel_mouth_EE:squirrel_mouth_EE
+    4300064: KittyCat_04:squirrel_mouth_smile:squirrel_mouth_smile
+    4300066: "KittyCat_04:squirrel_mouth_\xC3_H:squirrel_mouth_\xC3_H"
+    4300068: KittyCat_04:squirrel_elbow_left:squirrel_elbow_left
+    4300070: KittyCat_04:squirrel_shoulder_left:squirrel_shoulder_left
+    4300072: KittyCat_04:squirrel_hand_left:squirrel_hand_left
+    4300074: KittyCat_04:squirrel_fingers_left_02:squirrel_fingers_left_02
+    4300076: KittyCat_04:squirrel_elbow_right:squirrel_elbow_right
+    4300078: KittyCat_04:squirrel_shoulder_right:squirrel_shoulder_right
+    4300080: KittyCat_04:squirrel_hand_right_02:squirrel_hand_right_02
+    4300082: KittyCat_04:squirrel_tail:squirrel_tail
+    4300084: KittyCat_04:squirrel_hip:squirrel_hip
+    4300086: KittyCat_04:squirrel_torso:squirrel_torso
+    4300088: KittyCat_04:squirrel_knee_R
+    4300090: KittyCat_04:squirrel_thigh_R
+    4300092: KittyCat_04:squirrel_knee_L
+    4300094: KittyCat_04:squirrel_thigh_L
+    4300096: KittyCat_04:squirrel_foot_L
+    4300098: KittyCat_04:squirrel_foot_R
+    7400000: KittyCat_idle_02
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: KittyCat_idle_02
+      takeName: KittyCat_idle_02
+      firstFrame: 1
+      lastFrame: 270
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: KittyCat_04:back1
+        weight: 1
+      - path: KittyCat_04:cat
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:Cat_hip:Cat_hip
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:Cat_hip:Cat_hip/KittyCat_04:Cat_body:Cat_body
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:Cat_hip:Cat_hip/KittyCat_04:Cat_body:Cat_body/KittyCat_04:joint_leg_01
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:Cat_hip:Cat_hip/KittyCat_04:Cat_body:Cat_body/KittyCat_04:joint_leg_01/KittyCat_04:Cat_shoulder:Cat_shoulder_01
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:Cat_hip:Cat_hip/KittyCat_04:Cat_body:Cat_body/KittyCat_04:joint_leg_01/KittyCat_04:joint5
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:Cat_hip:Cat_hip/KittyCat_04:Cat_body:Cat_body/KittyCat_04:joint_leg_01/KittyCat_04:joint5/KittyCat_04:Cat_elbow:Cat_elbow_01
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:Cat_hip:Cat_hip/KittyCat_04:Cat_body:Cat_body/KittyCat_04:joint_leg_01/KittyCat_04:joint5/KittyCat_04:joint6
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:Cat_hip:Cat_hip/KittyCat_04:Cat_body:Cat_body/KittyCat_04:joint_leg_02
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:Cat_hip:Cat_hip/KittyCat_04:Cat_body:Cat_body/KittyCat_04:joint_leg_02/KittyCat_04:Cat_shoulder_01
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:Cat_hip:Cat_hip/KittyCat_04:Cat_body:Cat_body/KittyCat_04:joint_leg_02/KittyCat_04:joint2
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:Cat_hip:Cat_hip/KittyCat_04:Cat_body:Cat_body/KittyCat_04:joint_leg_02/KittyCat_04:joint2/KittyCat_04:Cat_elbow_01
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:Cat_hip:Cat_hip/KittyCat_04:Cat_body:Cat_body/KittyCat_04:joint_leg_02/KittyCat_04:joint2/KittyCat_04:joint3
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:Cat_hip:Cat_hip/KittyCat_04:Cat_body:Cat_body/KittyCat_04:neck
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:Cat_hip:Cat_hip/KittyCat_04:Cat_body:Cat_body/KittyCat_04:neck/KittyCat_04:Cat_neck:Cat_neck
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:Cat_hip:Cat_hip/KittyCat_04:Cat_body:Cat_body/KittyCat_04:neck/KittyCat_04:head
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:Cat_hip:Cat_hip/KittyCat_04:Cat_body:Cat_body/KittyCat_04:neck/KittyCat_04:head/KittyCat_04:Cat_head:Cat_head
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:Cat_hip:Cat_hip/KittyCat_04:Cat_body:Cat_body/KittyCat_04:neck/KittyCat_04:head/KittyCat_04:Cat_head:Cat_head/KittyCat_04:Cat_AA:Cat_AA
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:Cat_hip:Cat_hip/KittyCat_04:Cat_body:Cat_body/KittyCat_04:neck/KittyCat_04:head/KittyCat_04:Cat_head:Cat_head/KittyCat_04:Cat_E:Cat_E
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:Cat_hip:Cat_hip/KittyCat_04:Cat_body:Cat_body/KittyCat_04:neck/KittyCat_04:head/KittyCat_04:Cat_head:Cat_head/KittyCat_04:Cat_eyes_closed:Cat_eyes_closed
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:Cat_hip:Cat_hip/KittyCat_04:Cat_body:Cat_body/KittyCat_04:neck/KittyCat_04:head/KittyCat_04:Cat_head:Cat_head/KittyCat_04:Cat_eyes_open:Cat_eyes_open
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:Cat_hip:Cat_hip/KittyCat_04:Cat_body:Cat_body/KittyCat_04:neck/KittyCat_04:head/KittyCat_04:Cat_head:Cat_head/KittyCat_04:Cat_I:Cat_I
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:Cat_hip:Cat_hip/KittyCat_04:Cat_body:Cat_body/KittyCat_04:neck/KittyCat_04:head/KittyCat_04:Cat_head:Cat_head/KittyCat_04:Cat_lids_under:Cat_lids_under
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:Cat_hip:Cat_hip/KittyCat_04:Cat_body:Cat_body/KittyCat_04:neck/KittyCat_04:head/KittyCat_04:Cat_head:Cat_head/KittyCat_04:Cat_pupils:Cat_pupils
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:Cat_hip:Cat_hip/KittyCat_04:Cat_body:Cat_body/KittyCat_04:neck/KittyCat_04:head/KittyCat_04:Cat_head:Cat_head/KittyCat_04:Cat_smile:Cat_smile
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:cat_rest
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:cat_rest/KittyCat_04:Cat_back_leg1
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:cat_rest/KittyCat_04:Cat_back_leg2
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:cat_rest/KittyCat_04:Cat_tail:Cat_tail
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:paw_01
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:paw_01/KittyCat_04:Cat_paw:Cat_paw_01
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:paw_01/KittyCat_04:ikHandle2
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:paw_02
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:paw_02/KittyCat_04:Cat_paw_01
+        weight: 1
+      - path: KittyCat_04:cat/KittyCat_04:paw_02/KittyCat_04:ikHandle1
+        weight: 1
+      - path: KittyCat_04:nurbsCircle1
+        weight: 1
+      - path: KittyCat_04:nurbsCircle1/KittyCat_04:ikHandle3
+        weight: 1
+      - path: KittyCat_04:nurbsCircle1/KittyCat_04:squirrel_foot_R
+        weight: 1
+      - path: KittyCat_04:squirrel
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:BANJO
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:BANJO/KittyCat_04:squirrel_banjo:squirrel_banjo
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_r_IK_ankle
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_r_IK_ankle/KittyCat_04:ikHandle4
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_r_IK_ankle/KittyCat_04:squirrel_foot_L
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_l_FK_shoulder
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_l_FK_shoulder/KittyCat_04:squirrel__02:ch_squirrel_l_IK_hand
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_l_FK_shoulder/KittyCat_04:squirrel__02:ch_squirrel_l_IK_hand/KittyCat_04:squirrel__02:ch_squirrel_l_hand_ikHandle
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_l_FK_shoulder/KittyCat_04:squirrel__02:ch_squirrel_l_IK_hand/KittyCat_04:squirrel_hand_right_02:squirrel_hand_right_02
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_l_FK_shoulder/KittyCat_04:squirrel__02:ch_squirrel_l_joint_shoulder
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_l_FK_shoulder/KittyCat_04:squirrel__02:ch_squirrel_l_joint_shoulder/KittyCat_04:squirrel__02:ch_squirrel_l_joint_elbow
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_l_FK_shoulder/KittyCat_04:squirrel__02:ch_squirrel_l_joint_shoulder/KittyCat_04:squirrel__02:ch_squirrel_l_joint_elbow/KittyCat_04:squirrel__02:ch_squirrel_l_joint_hand
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_l_FK_shoulder/KittyCat_04:squirrel__02:ch_squirrel_l_joint_shoulder/KittyCat_04:squirrel__02:ch_squirrel_l_joint_elbow/KittyCat_04:squirrel_elbow_right:squirrel_elbow_right
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_l_FK_shoulder/KittyCat_04:squirrel__02:ch_squirrel_l_joint_shoulder/KittyCat_04:squirrel_shoulder_right:squirrel_shoulder_right
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_l_hip
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_neck
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_neck/KittyCat_04:squirrel_head:squirrel_head
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_neck/KittyCat_04:squirrel_head:squirrel_head/KittyCat_04:squirrel_eye_closed:squirrel_eye_closed
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_neck/KittyCat_04:squirrel_head:squirrel_head/KittyCat_04:squirrel_eye_closed_half:squirrel_eye_closed_half
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_neck/KittyCat_04:squirrel_head:squirrel_head/KittyCat_04:squirrel_eye_open:squirrel_eye_open
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_neck/KittyCat_04:squirrel_head:squirrel_head/KittyCat_04:squirrel_hat:squirrel_hat
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_neck/KittyCat_04:squirrel_head:squirrel_head/KittyCat_04:squirrel_mouth_AA:squirrel_mouth_AA
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_neck/KittyCat_04:squirrel_head:squirrel_head/KittyCat_04:squirrel_mouth_EE:squirrel_mouth_EE
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_neck/KittyCat_04:squirrel_head:squirrel_head/KittyCat_04:squirrel_mouth_II:squirrel_mouth_II
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_neck/KittyCat_04:squirrel_head:squirrel_head/KittyCat_04:squirrel_mouth_OO:squirrel_mouth_OO
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_neck/KittyCat_04:squirrel_head:squirrel_head/KittyCat_04:squirrel_mouth_smile:squirrel_mouth_smile
+        weight: 1
+      - path: "KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_neck/KittyCat_04:squirrel_head:squirrel_head/KittyCat_04:squirrel_mouth_\xC3_H:squirrel_mouth_\xC3_H"
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_neck/KittyCat_04:squirrel_head:squirrel_head/KittyCat_04:squirrrel_pupil:squirrrel_pupil
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_r_FK_shoulder
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_r_FK_shoulder/KittyCat_04:squirrel__02:ch_squirrel_r_joint_shoulder
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_r_FK_shoulder/KittyCat_04:squirrel__02:ch_squirrel_r_joint_shoulder/KittyCat_04:squirrel__02:ch_squirrel_r_joint_elbow
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_r_FK_shoulder/KittyCat_04:squirrel__02:ch_squirrel_r_joint_shoulder/KittyCat_04:squirrel__02:ch_squirrel_r_joint_elbow/KittyCat_04:squirrel__02:ch_squirrel_r_joint_hand
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_r_FK_shoulder/KittyCat_04:squirrel__02:ch_squirrel_r_joint_shoulder/KittyCat_04:squirrel__02:ch_squirrel_r_joint_elbow/KittyCat_04:squirrel_elbow_left:squirrel_elbow_left
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_r_FK_shoulder/KittyCat_04:squirrel__02:ch_squirrel_r_joint_shoulder/KittyCat_04:squirrel_shoulder_left:squirrel_shoulder_left
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_r_FK_shoulder/KittyCat_04:squirrel__02:group2
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_r_FK_shoulder/KittyCat_04:squirrel__02:group2/KittyCat_04:squirrel__02:ch_squirrel_r_IK_hand
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_r_FK_shoulder/KittyCat_04:squirrel__02:group2/KittyCat_04:squirrel__02:ch_squirrel_r_IK_hand/KittyCat_04:squirrel__02:ch_squirrel_r_hand_ikHandle
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_r_FK_shoulder/KittyCat_04:squirrel__02:group2/KittyCat_04:squirrel__02:ch_squirrel_r_IK_hand/KittyCat_04:squirrel_hand_left:squirrel_hand_left
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_r_FK_shoulder/KittyCat_04:squirrel__02:group2/KittyCat_04:squirrel__02:ch_squirrel_r_IK_hand/KittyCat_04:squirrel_hand_left:squirrel_hand_left/KittyCat_04:squirrel_fingers_left_02:squirrel_fingers_left_02
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:ch_squirrel_r_hip
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:nurbsCircle2
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel__02:nurbsCircle2/KittyCat_04:squirrel_tail:squirrel_tail
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel_hip:squirrel_hip
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:squirrel_torso:squirrel_torso
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:transform1
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:transform1/KittyCat_04:joint7
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:transform1/KittyCat_04:joint7/KittyCat_04:joint8
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:transform1/KittyCat_04:joint7/KittyCat_04:joint8/KittyCat_04:joint9
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:transform1/KittyCat_04:joint7/KittyCat_04:joint8/KittyCat_04:squirrel_knee_R
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:transform1/KittyCat_04:joint7/KittyCat_04:squirrel_thigh_R
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:transform2
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:transform2/KittyCat_04:joint10
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:transform2/KittyCat_04:joint10/KittyCat_04:joint11
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:transform2/KittyCat_04:joint10/KittyCat_04:joint11/KittyCat_04:joint12
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:transform2/KittyCat_04:joint10/KittyCat_04:joint11/KittyCat_04:squirrel_knee_L
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:ch_squirrel_torso/KittyCat_04:transform2/KittyCat_04:joint10/KittyCat_04:squirrel_thigh_L
+        weight: 1
+      - path: KittyCat_04:squirrel/KittyCat_04:squirrel__02:ch_squirrel_master_control/KittyCat_04:squirrel__02:nurbsCircle1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
